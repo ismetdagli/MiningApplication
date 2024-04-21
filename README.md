@@ -1,8 +1,8 @@
-# Mining Application
+# Mining Application and Overall Evaluation Experiments
 
 Welcome to this machine learning and deep learning project. This repository contains various Python scripts that implement different machine learning algorithms and data handling routines. The code is built using PyTorch, with variations for CPU and GPU execution. Below is an overview of the files included in this project and their respective functions.
 
-## File Descriptions
+# Under Scripts, File Descriptions
 
 - **main.py**
   - This is the primary entry point for the project. It initializes the project and calls other scripts to execute specific tasks.
@@ -33,6 +33,44 @@ Welcome to this machine learning and deep learning project. This repository cont
 
 - **load_and_plot_results.py**
   - This script loads results from the other scripts and creates various plots to visualize the output. Useful for analyzing and understanding the performance of different algorithms.
+
+# Under experiments, File Descriptions
+
+This project contains Python scripts focused on various aspects of mining and scheduling, with applications in edge and server environments. The scripts offer a range of functionalities, from mining simulations to different scheduling strategies, both locally and across clusters.
+
+## File Descriptions
+
+- **mining_scheduling_clusters_edgeandservers.py**
+  - This script manages mining and scheduling across clusters, incorporating edge and server environments. It offers flexibility for both centralized and distributed configurations.
+
+- **mining_scheduling_priority_asksameserver.py**
+  - This script handles mining with scheduling that prioritizes tasks asking for the same server. It is useful for optimizing server load and minimizing data transfer times.
+
+- **mining_scheduling_priority_dontaskedge.py**
+  - This script is similar to the above, but with a scheduling priority that avoids asking edge servers. It is designed for scenarios where edge resources are limited or less reliable.
+
+- **run_local.py**
+  - This script is designed for running simulations or tasks locally. It is ideal for debugging or smaller-scale testing.
+
+- **run_local_scheduler.py**
+  - This script offers local scheduling capabilities, allowing for controlled experiments with different scheduling strategies.
+
+- **simulation_mining.py**
+  - This script simulates mining operations. It can be used to test different configurations and parameters in a controlled environment.
+
+- **simulation_mining_strongscaling_v2.py**
+  - A variant of the mining simulation script, designed for strong scaling. It tests how mining operations perform as resources are increased.
+
+- **vr_scheduling_priority_dontaskedge.py**
+  - This script manages VR scheduling with a priority to avoid edge servers. It is tailored for VR applications where latency and stability are crucial.
+
+- **edge_server_count.py**
+  - This script provides utilities for counting and managing edge servers. It can help assess the available resources and their utilization.
+
+- **vr_weak_scaling.py**
+  - This script is designed for VR applications with weak scaling, testing how VR tasks perform as additional resources are introduced.
+
+
 
 ## Running the Scripts
 
