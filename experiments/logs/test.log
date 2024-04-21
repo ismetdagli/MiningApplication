@@ -1,0 +1,1915 @@
+argument list ['simulation_vr.py', 'testing']
+Overhead with server: % 1.5292587776332927
+tasks_asked_waited_in_queue:  [23, 2, 0, 8]
+argument list ['simulation_vr.py', '5', '3']
+Overhead with server: % 1.5292587776332927
+tasks_asked_waited_in_queue:  [23, 2, 0, 8]
+argument list ['simulation_vr.py', '0 0']
+argument list ['simulation_vr.py', '0 1']
+argument list ['simulation_vr.py', '0 2']
+argument list ['simulation_vr.py', '0 3']
+argument list ['simulation_vr.py', '0 4']
+argument list ['simulation_vr.py', '0 5']
+argument list ['simulation_vr.py', '0 6']
+argument list ['simulation_vr.py', '0 7']
+argument list ['simulation_vr.py', '0 8']
+argument list ['simulation_vr.py', '0 9']
+argument list ['simulation_vr.py', '1 0']
+argument list ['simulation_vr.py', '1 1']
+argument list ['simulation_vr.py', '1 2']
+argument list ['simulation_vr.py', '1 3']
+argument list ['simulation_vr.py', '1 4']
+argument list ['simulation_vr.py', '1 5']
+argument list ['simulation_vr.py', '1 6']
+argument list ['simulation_vr.py', '1 7']
+argument list ['simulation_vr.py', '1 8']
+argument list ['simulation_vr.py', '1 9']
+argument list ['simulation_vr.py', '2 0']
+argument list ['simulation_vr.py', '2 1']
+argument list ['simulation_vr.py', '2 2']
+argument list ['simulation_vr.py', '2 3']
+argument list ['simulation_vr.py', '2 4']
+argument list ['simulation_vr.py', '2 5']
+argument list ['simulation_vr.py', '0', '0']
+argument list ['simulation_vr.py', '0', '1']
+argument list ['simulation_vr.py', '0', '2']
+argument list ['simulation_vr.py', '0', '3']
+argument list ['simulation_vr.py', '0', '4']
+argument list ['simulation_vr.py', '0', '5']
+argument list ['simulation_vr.py', '0', '6']
+argument list ['simulation_vr.py', '0', '7']
+argument list ['simulation_vr.py', '0', '8']
+argument list ['simulation_vr.py', '0', '9']
+argument list ['simulation_vr.py', '1', '0']
+Overhead with server: % 0.0
+
+#for i in {3..20}; do for j in 3 5 7 9 11 13 15; do python3 simulation_vr.py "$i" "$j" >> test.log; done; done
+
+tasks_asked_waited_in_queue:  [0, 152, 0, 0]
+argument list ['simulation_vr.py', '3', '3']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '3', '5']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '3', '7']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '3', '9']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '3', '11']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '3', '13']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '3', '15']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '4', '3']
+Overhead with server: % 1.6710875331565012
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '4', '5']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '4', '7']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '4', '9']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '4', '11']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '4', '13']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '4', '15']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '5', '3']
+Overhead with server: % 1.5292587776332927
+tasks_asked_waited_in_queue:  [23, 2, 0, 8]
+argument list ['simulation_vr.py', '5', '5']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '5', '7']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '5', '9']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '5', '11']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '5', '13']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '5', '15']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '6', '3']
+Overhead with server: % 1.3486160599075545
+tasks_asked_waited_in_queue:  [56, 82, 0, 35]
+argument list ['simulation_vr.py', '6', '5']
+Overhead with server: % 1.7241379310344822
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '6', '7']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '6', '9']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '6', '11']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '6', '13']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '6', '15']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '7', '3']
+Overhead with server: % 1.2893250902207305
+tasks_asked_waited_in_queue:  [85, 139, 0, 65]
+argument list ['simulation_vr.py', '7', '5']
+Overhead with server: % 1.6710875331564963
+tasks_asked_waited_in_queue:  [4, 0, 0, 9]
+argument list ['simulation_vr.py', '7', '7']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '7', '9']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '7', '11']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '7', '13']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '7', '15']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '8', '3']
+Overhead with server: % 1.192900754808701
+tasks_asked_waited_in_queue:  [76, 224, 0, 77]
+argument list ['simulation_vr.py', '8', '5']
+Overhead with server: % 1.6511936339522508
+tasks_asked_waited_in_queue:  [29, 8, 0, 10]
+argument list ['simulation_vr.py', '8', '7']
+Overhead with server: % 1.75066312997347
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '8', '9']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '8', '11']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '8', '13']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '8', '15']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '9', '3']
+Overhead with server: % 1.0253962373919556
+tasks_asked_waited_in_queue:  [94, 307, 0, 64]
+argument list ['simulation_vr.py', '9', '5']
+Overhead with server: % 1.519570630715477
+tasks_asked_waited_in_queue:  [100, 15, 0, 22]
+argument list ['simulation_vr.py', '9', '7']
+Overhead with server: % 1.688770999115821
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '9', '9']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '9', '11']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '9', '13']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '9', '15']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '10', '3']
+Overhead with server: % 0.9187648315912087
+tasks_asked_waited_in_queue:  [99, 352, 0, 56]
+argument list ['simulation_vr.py', '10', '5']
+Overhead with server: % 1.3331190407295914
+tasks_asked_waited_in_queue:  [135, 146, 0, 117]
+argument list ['simulation_vr.py', '10', '7']
+Overhead with server: % 1.6233421750663068
+tasks_asked_waited_in_queue:  [11, 0, 0, 33]
+argument list ['simulation_vr.py', '10', '9']
+Overhead with server: % 1.7665782493368627
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '10', '11']
+Overhead with server: % 1.830238726790443
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '10', '13']
+Overhead with server: % 1.830238726790443
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '10', '15']
+Overhead with server: % 1.830238726790443
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '11', '3']
+Overhead with server: % 0.8379751947955291
+tasks_asked_waited_in_queue:  [157, 420, 0, 98]
+argument list ['simulation_vr.py', '11', '5']
+Overhead with server: % 1.3152089342476063
+tasks_asked_waited_in_queue:  [178, 191, 0, 102]
+argument list ['simulation_vr.py', '11', '7']
+Overhead with server: % 1.6204485170002343
+tasks_asked_waited_in_queue:  [51, 4, 0, 16]
+argument list ['simulation_vr.py', '11', '9']
+Overhead with server: % 1.7144924041475689
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '11', '11']
+Overhead with server: % 1.830238726790442
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '11', '13']
+Overhead with server: % 1.830238726790442
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '11', '15']
+Overhead with server: % 1.830238726790442
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '12', '3']
+Overhead with server: % 0.7389720910621227
+tasks_asked_waited_in_queue:  [138, 504, 0, 143]
+argument list ['simulation_vr.py', '12', '5']
+Overhead with server: % 1.279302082623549
+tasks_asked_waited_in_queue:  [157, 322, 0, 119]
+argument list ['simulation_vr.py', '12', '7']
+Overhead with server: % 1.5750480736916819
+tasks_asked_waited_in_queue:  [110, 8, 0, 37]
+argument list ['simulation_vr.py', '12', '9']
+Overhead with server: % 1.6710875331564905
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '12', '11']
+Overhead with server: % 1.777188328912458
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '12', '13']
+Overhead with server: % 1.8302387267904414
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '12', '15']
+Overhead with server: % 1.8302387267904414
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '13', '3']
+Overhead with server: % 0.6805262432320508
+tasks_asked_waited_in_queue:  [254, 572, 1, 156]
+argument list ['simulation_vr.py', '13', '5']
+Overhead with server: % 1.215357244635872
+tasks_asked_waited_in_queue:  [195, 349, 0, 174]
+argument list ['simulation_vr.py', '13', '7']
+Overhead with server: % 1.4372439547426128
+tasks_asked_waited_in_queue:  [216, 34, 0, 69]
+argument list ['simulation_vr.py', '13', '9']
+Overhead with server: % 1.6343603346255784
+tasks_asked_waited_in_queue:  [21, 0, 0, 54]
+argument list ['simulation_vr.py', '13', '11']
+Overhead with server: % 1.7322995307080096
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '13', '13']
+Overhead with server: % 1.830238726790441
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '13', '15']
+Overhead with server: % 1.830238726790441
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '14', '3']
+Overhead with server: % 0.6412516905891064
+tasks_asked_waited_in_queue:  [200, 614, 1, 111]
+argument list ['simulation_vr.py', '14', '5']
+Overhead with server: % 1.0997088444465608
+tasks_asked_waited_in_queue:  [202, 417, 0, 128]
+argument list ['simulation_vr.py', '14', '7']
+Overhead with server: % 1.3440280467072505
+tasks_asked_waited_in_queue:  [206, 183, 0, 148]
+argument list ['simulation_vr.py', '14', '9']
+Overhead with server: % 1.642667677150427
+tasks_asked_waited_in_queue:  [69, 5, 0, 26]
+argument list ['simulation_vr.py', '14', '11']
+Overhead with server: % 1.6938234179613398
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '14', '13']
+Overhead with server: % 1.7847669571807399
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '14', '15']
+Overhead with server: % 1.8302387267904403
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '15', '3']
+Overhead with server: % 0.5876434740551162
+tasks_asked_waited_in_queue:  [252, 754, 0, 146]
+argument list ['simulation_vr.py', '15', '5']
+Overhead with server: % 0.9934987082167379
+tasks_asked_waited_in_queue:  [160, 480, 0, 136]
+argument list ['simulation_vr.py', '15', '7']
+Overhead with server: % 1.3690323343607134
+tasks_asked_waited_in_queue:  [358, 162, 0, 168]
+argument list ['simulation_vr.py', '15', '9']
+Overhead with server: % 1.5957867017774763
+tasks_asked_waited_in_queue:  [146, 10, 0, 33]
+argument list ['simulation_vr.py', '15', '11']
+Overhead with server: % 1.6657824933686907
+tasks_asked_waited_in_queue:  [8, 0, 0, 26]
+argument list ['simulation_vr.py', '15', '13']
+Overhead with server: % 1.745358090185666
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '15', '15']
+Overhead with server: % 1.83023872679044
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '16', '3']
+Overhead with server: % 0.5564931726487019
+tasks_asked_waited_in_queue:  [282, 760, 2, 121]
+argument list ['simulation_vr.py', '16', '5']
+Overhead with server: % 0.9307503423164387
+tasks_asked_waited_in_queue:  [223, 542, 0, 129]
+argument list ['simulation_vr.py', '16', '7']
+Overhead with server: % 1.3397066397886148
+tasks_asked_waited_in_queue:  [288, 331, 0, 184]
+argument list ['simulation_vr.py', '16', '9']
+Overhead with server: % 1.5318302387267817
+tasks_asked_waited_in_queue:  [258, 19, 0, 63]
+argument list ['simulation_vr.py', '16', '11']
+Overhead with server: % 1.62632625994694
+tasks_asked_waited_in_queue:  [34, 0, 0, 81]
+argument list ['simulation_vr.py', '16', '13']
+Overhead with server: % 1.7108753315649765
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '16', '15']
+Overhead with server: % 1.7904509283819516
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '17', '3']
+Overhead with server: % 0.5115528200988769
+tasks_asked_waited_in_queue:  [299, 864, 0, 135]
+argument list ['simulation_vr.py', '17', '5']
+Overhead with server: % 0.8635700360901533
+tasks_asked_waited_in_queue:  [204, 601, 0, 127]
+argument list ['simulation_vr.py', '17', '7']
+Overhead with server: % 1.2567634497453617
+tasks_asked_waited_in_queue:  [274, 442, 0, 203]
+argument list ['simulation_vr.py', '17', '9']
+Overhead with server: % 1.4932126696832495
+tasks_asked_waited_in_queue:  [373, 62, 0, 71]
+argument list ['simulation_vr.py', '17', '11']
+Overhead with server: % 1.643002028397556
+tasks_asked_waited_in_queue:  [84, 6, 0, 43]
+argument list ['simulation_vr.py', '17', '13']
+Overhead with server: % 1.6804493680761323
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '17', '15']
+Overhead with server: % 1.7553440474332858
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '18', '3']
+Overhead with server: % 0.5068043576259795
+tasks_asked_waited_in_queue:  [316, 979, 8, 106]
+argument list ['simulation_vr.py', '18', '5']
+Overhead with server: % 0.8229800810981602
+tasks_asked_waited_in_queue:  [253, 676, 0, 163]
+argument list ['simulation_vr.py', '18', '7']
+Overhead with server: % 1.1737518438029442
+tasks_asked_waited_in_queue:  [265, 512, 0, 197]
+argument list ['simulation_vr.py', '18', '9']
+Overhead with server: % 1.3501695915910887
+tasks_asked_waited_in_queue:  [371, 246, 0, 267]
+argument list ['simulation_vr.py', '18', '11']
+Overhead with server: % 1.6224580017683363
+tasks_asked_waited_in_queue:  [189, 17, 0, 39]
+argument list ['simulation_vr.py', '18', '13']
+Overhead with server: % 1.684350132625984
+tasks_asked_waited_in_queue:  [19, 0, 0, 39]
+argument list ['simulation_vr.py', '18', '15']
+Overhead with server: % 1.7241379310344718
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '19', '3']
+Overhead with server: % 0.4668221148764716
+tasks_asked_waited_in_queue:  [500, 949, 1, 163]
+argument list ['simulation_vr.py', '19', '5']
+Overhead with server: % 0.7685616252639157
+tasks_asked_waited_in_queue:  [402, 699, 0, 209]
+argument list ['simulation_vr.py', '19', '7']
+Overhead with server: % 1.1349420286629204
+tasks_asked_waited_in_queue:  [217, 570, 0, 207]
+argument list ['simulation_vr.py', '19', '9']
+Overhead with server: % 1.4658662571548144
+tasks_asked_waited_in_queue:  [599, 186, 0, 205]
+argument list ['simulation_vr.py', '19', '11']
+Overhead with server: % 1.5957001256456689
+tasks_asked_waited_in_queue:  [300, 14, 0, 57]
+argument list ['simulation_vr.py', '19', '13']
+Overhead with server: % 1.6250174507887651
+tasks_asked_waited_in_queue:  [50, 0, 0, 118]
+argument list ['simulation_vr.py', '19', '15']
+Overhead with server: % 1.6962166689934275
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+argument list ['simulation_vr.py', '20', '3']
+Overhead with server: % 0.44669463503525286
+tasks_asked_waited_in_queue:  [501, 1140, 9, 158]
+argument list ['simulation_vr.py', '20', '5']
+Overhead with server: % 0.7445879844200748
+tasks_asked_waited_in_queue:  [454, 790, 0, 193]
+argument list ['simulation_vr.py', '20', '7']
+Overhead with server: % 1.073956491951567
+tasks_asked_waited_in_queue:  [288, 628, 0, 173]
+argument list ['simulation_vr.py', '20', '9']
+Overhead with server: % 1.3452667821412567
+tasks_asked_waited_in_queue:  [380, 409, 0, 233]
+argument list ['simulation_vr.py', '20', '11']
+Overhead with server: % 1.5198938992042343
+tasks_asked_waited_in_queue:  [431, 36, 0, 81]
+argument list ['simulation_vr.py', '20', '13']
+Overhead with server: % 1.611405835543756
+tasks_asked_waited_in_queue:  [102, 7, 0, 65]
+argument list ['simulation_vr.py', '20', '15']
+Overhead with server: % 1.6710875331564874
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+
+
+
+
+
+
+
+
+
+
+deadline_per_task=[12,33,17,15]
+#for i in {3..20}; do for j in 3 5 7 9 11 13 15; do python3 simulation_vr.py "$i" "$j" >> test.log; done; done
+
+
+argument list ['simulation_vr.py', '3', '3']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '5']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '7']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '9']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '11']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '13']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '15']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '3']
+Overhead with server: % 1.6710875331565012
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '5']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '7']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '9']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '11']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '13']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '15']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '3']
+Overhead with server: % 1.5292587776332927
+tasks_asked_waited_in_queue:  [23, 2, 0, 8]
+Sim time:  384.5
+
+argument list ['simulation_vr.py', '5', '5']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '7']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '9']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '11']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '13']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '15']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '3']
+Overhead with server: % 1.3486160599075545
+tasks_asked_waited_in_queue:  [56, 82, 0, 35]
+Sim time:  389.2879638671875
+
+argument list ['simulation_vr.py', '6', '5']
+Overhead with server: % 1.7241379310344822
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '7']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '9']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '11']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '13']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '15']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '3']
+Overhead with server: % 1.2893250902207305
+tasks_asked_waited_in_queue:  [85, 139, 0, 65]
+Sim time:  412.17577743530273
+
+argument list ['simulation_vr.py', '7', '5']
+Overhead with server: % 1.6710875331564963
+tasks_asked_waited_in_queue:  [4, 0, 0, 9]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '7']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '9']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '11']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '13']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '15']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '3']
+Overhead with server: % 1.192900754808701
+tasks_asked_waited_in_queue:  [76, 224, 0, 77]
+Sim time:  458.9652557373047
+
+argument list ['simulation_vr.py', '8', '5']
+Overhead with server: % 1.6511936339522508
+tasks_asked_waited_in_queue:  [29, 8, 0, 10]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '7']
+Overhead with server: % 1.75066312997347
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '9']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '11']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '13']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '15']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '3']
+Overhead with server: % 1.0253962373919556
+tasks_asked_waited_in_queue:  [94, 307, 0, 64]
+Sim time:  529.87646484375
+
+argument list ['simulation_vr.py', '9', '5']
+Overhead with server: % 1.519570630715477
+tasks_asked_waited_in_queue:  [100, 15, 0, 22]
+Sim time:  379.4931640625
+
+argument list ['simulation_vr.py', '9', '7']
+Overhead with server: % 1.688770999115821
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '9']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '11']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '13']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '15']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '3']
+Overhead with server: % 0.9187648315912087
+tasks_asked_waited_in_queue:  [99, 352, 0, 56]
+Sim time:  574.6846002861857
+
+argument list ['simulation_vr.py', '10', '5']
+Overhead with server: % 1.3331190407295914
+tasks_asked_waited_in_queue:  [135, 146, 0, 117]
+Sim time:  393.81329345703125
+
+argument list ['simulation_vr.py', '10', '7']
+Overhead with server: % 1.6233421750663068
+tasks_asked_waited_in_queue:  [11, 0, 0, 33]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '9']
+Overhead with server: % 1.7665782493368627
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '11']
+Overhead with server: % 1.830238726790443
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '13']
+Overhead with server: % 1.830238726790443
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '15']
+Overhead with server: % 1.830238726790443
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '11', '3']
+Overhead with server: % 0.8379751947955291
+tasks_asked_waited_in_queue:  [157, 420, 0, 98]
+Sim time:  657.4288765713573
+
+argument list ['simulation_vr.py', '11', '5']
+Overhead with server: % 1.3152089342476063
+tasks_asked_waited_in_queue:  [178, 191, 0, 102]
+Sim time:  398.1392993927002
+
+argument list ['simulation_vr.py', '11', '7']
+Overhead with server: % 1.6204485170002343
+tasks_asked_waited_in_queue:  [51, 4, 0, 16]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '11', '9']
+Overhead with server: % 1.7144924041475689
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '11', '11']
+Overhead with server: % 1.830238726790442
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '11', '13']
+Overhead with server: % 1.830238726790442
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '11', '15']
+Overhead with server: % 1.830238726790442
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '12', '3']
+Overhead with server: % 0.7389720910621227
+tasks_asked_waited_in_queue:  [138, 504, 0, 143]
+Sim time:  757.8094041347504
+
+argument list ['simulation_vr.py', '12', '5']
+Overhead with server: % 1.279302082623549
+tasks_asked_waited_in_queue:  [157, 322, 0, 119]
+Sim time:  416.24258041381836
+
+argument list ['simulation_vr.py', '12', '7']
+Overhead with server: % 1.5750480736916819
+tasks_asked_waited_in_queue:  [110, 8, 0, 37]
+Sim time:  379.35350036621094
+
+argument list ['simulation_vr.py', '12', '9']
+Overhead with server: % 1.6710875331564905
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '12', '11']
+Overhead with server: % 1.777188328912458
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '12', '13']
+Overhead with server: % 1.8302387267904414
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '12', '15']
+Overhead with server: % 1.8302387267904414
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '13', '3']
+Overhead with server: % 0.6805262432320508
+tasks_asked_waited_in_queue:  [254, 572, 1, 156]
+Sim time:  854.5423006415367
+
+argument list ['simulation_vr.py', '13', '5']
+Overhead with server: % 1.215357244635872
+tasks_asked_waited_in_queue:  [195, 349, 0, 174]
+Sim time:  427.2248110771179
+
+argument list ['simulation_vr.py', '13', '7']
+Overhead with server: % 1.4372439547426128
+tasks_asked_waited_in_queue:  [216, 34, 0, 69]
+Sim time:  388.56419372558594
+
+argument list ['simulation_vr.py', '13', '9']
+Overhead with server: % 1.6343603346255784
+tasks_asked_waited_in_queue:  [21, 0, 0, 54]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '13', '11']
+Overhead with server: % 1.7322995307080096
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '13', '13']
+Overhead with server: % 1.830238726790441
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '13', '15']
+Overhead with server: % 1.830238726790441
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '14', '3']
+Overhead with server: % 0.6412516905891064
+tasks_asked_waited_in_queue:  [200, 614, 1, 111]
+Sim time:  902.2532604006119
+
+argument list ['simulation_vr.py', '14', '5']
+Overhead with server: % 1.0997088444465608
+tasks_asked_waited_in_queue:  [202, 417, 0, 128]
+Sim time:  467.65625
+
+argument list ['simulation_vr.py', '14', '7']
+Overhead with server: % 1.3440280467072505
+tasks_asked_waited_in_queue:  [206, 183, 0, 148]
+Sim time:  396.99426651000977
+
+argument list ['simulation_vr.py', '14', '9']
+Overhead with server: % 1.642667677150427
+tasks_asked_waited_in_queue:  [69, 5, 0, 26]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '14', '11']
+Overhead with server: % 1.6938234179613398
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '14', '13']
+Overhead with server: % 1.7847669571807399
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '14', '15']
+Overhead with server: % 1.8302387267904403
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '15', '3']
+Overhead with server: % 0.5876434740551162
+tasks_asked_waited_in_queue:  [252, 754, 0, 146]
+Sim time:  1027.8340978280758
+
+argument list ['simulation_vr.py', '15', '5']
+Overhead with server: % 0.9934987082167379
+tasks_asked_waited_in_queue:  [160, 480, 0, 136]
+Sim time:  497.2326545715332
+
+argument list ['simulation_vr.py', '15', '7']
+Overhead with server: % 1.3690323343607134
+tasks_asked_waited_in_queue:  [358, 162, 0, 168]
+Sim time:  395.9000721871853
+
+argument list ['simulation_vr.py', '15', '9']
+Overhead with server: % 1.5957867017774763
+tasks_asked_waited_in_queue:  [146, 10, 0, 33]
+Sim time:  379.75
+
+argument list ['simulation_vr.py', '15', '11']
+Overhead with server: % 1.6657824933686907
+tasks_asked_waited_in_queue:  [8, 0, 0, 26]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '15', '13']
+Overhead with server: % 1.745358090185666
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '15', '15']
+Overhead with server: % 1.83023872679044
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '16', '3']
+Overhead with server: % 0.5564931726487019
+tasks_asked_waited_in_queue:  [282, 760, 2, 121]
+Sim time:  1044.487207692884
+
+argument list ['simulation_vr.py', '16', '5']
+Overhead with server: % 0.9307503423164387
+tasks_asked_waited_in_queue:  [223, 542, 0, 129]
+Sim time:  549.9595076441765
+
+argument list ['simulation_vr.py', '16', '7']
+Overhead with server: % 1.3397066397886148
+tasks_asked_waited_in_queue:  [288, 331, 0, 184]
+Sim time:  393.2763967514038
+
+argument list ['simulation_vr.py', '16', '9']
+Overhead with server: % 1.5318302387267817
+tasks_asked_waited_in_queue:  [258, 19, 0, 63]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '16', '11']
+Overhead with server: % 1.62632625994694
+tasks_asked_waited_in_queue:  [34, 0, 0, 81]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '16', '13']
+Overhead with server: % 1.7108753315649765
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '16', '15']
+Overhead with server: % 1.7904509283819516
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '17', '3']
+Overhead with server: % 0.5115528200988769
+tasks_asked_waited_in_queue:  [299, 864, 0, 135]
+Sim time:  1166.0
+
+argument list ['simulation_vr.py', '17', '5']
+Overhead with server: % 0.8635700360901533
+tasks_asked_waited_in_queue:  [204, 601, 0, 127]
+Sim time:  594.6586730703712
+
+argument list ['simulation_vr.py', '17', '7']
+Overhead with server: % 1.2567634497453617
+tasks_asked_waited_in_queue:  [274, 442, 0, 203]
+Sim time:  417.0376272201538
+
+argument list ['simulation_vr.py', '17', '9']
+Overhead with server: % 1.4932126696832495
+tasks_asked_waited_in_queue:  [373, 62, 0, 71]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '17', '11']
+Overhead with server: % 1.643002028397556
+tasks_asked_waited_in_queue:  [84, 6, 0, 43]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '17', '13']
+Overhead with server: % 1.6804493680761323
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '17', '15']
+Overhead with server: % 1.7553440474332858
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '18', '3']
+Overhead with server: % 0.5068043576259795
+tasks_asked_waited_in_queue:  [316, 979, 8, 106]
+Sim time:  1322.0091538645652
+
+argument list ['simulation_vr.py', '18', '5']
+Overhead with server: % 0.8229800810981602
+tasks_asked_waited_in_queue:  [253, 676, 0, 163]
+Sim time:  646.0261662192643
+
+argument list ['simulation_vr.py', '18', '7']
+Overhead with server: % 1.1737518438029442
+tasks_asked_waited_in_queue:  [265, 512, 0, 197]
+Sim time:  433.08416171371937
+
+argument list ['simulation_vr.py', '18', '9']
+Overhead with server: % 1.3501695915910887
+tasks_asked_waited_in_queue:  [371, 246, 0, 267]
+Sim time:  386.3712158203125
+
+argument list ['simulation_vr.py', '18', '11']
+Overhead with server: % 1.6224580017683363
+tasks_asked_waited_in_queue:  [189, 17, 0, 39]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '18', '13']
+Overhead with server: % 1.684350132625984
+tasks_asked_waited_in_queue:  [19, 0, 0, 39]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '18', '15']
+Overhead with server: % 1.7241379310344718
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '19', '3']
+Overhead with server: % 0.4668221148764716
+tasks_asked_waited_in_queue:  [500, 949, 1, 163]
+Sim time:  1180.4338612466145
+
+argument list ['simulation_vr.py', '19', '5']
+Overhead with server: % 0.7685616252639157
+tasks_asked_waited_in_queue:  [402, 699, 0, 209]
+Sim time:  661.5228186249733
+
+argument list ['simulation_vr.py', '19', '7']
+Overhead with server: % 1.1349420286629204
+tasks_asked_waited_in_queue:  [217, 570, 0, 207]
+Sim time:  443.79730224609375
+
+argument list ['simulation_vr.py', '19', '9']
+Overhead with server: % 1.4658662571548144
+tasks_asked_waited_in_queue:  [599, 186, 0, 205]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '19', '11']
+Overhead with server: % 1.5957001256456689
+tasks_asked_waited_in_queue:  [300, 14, 0, 57]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '19', '13']
+Overhead with server: % 1.6250174507887651
+tasks_asked_waited_in_queue:  [50, 0, 0, 118]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '19', '15']
+Overhead with server: % 1.6962166689934275
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '20', '3']
+Overhead with server: % 0.44669463503525286
+tasks_asked_waited_in_queue:  [501, 1140, 9, 158]
+Sim time:  1507.7414125353102
+
+argument list ['simulation_vr.py', '20', '5']
+Overhead with server: % 0.7445879844200748
+tasks_asked_waited_in_queue:  [454, 790, 0, 193]
+Sim time:  707.102466084063
+
+argument list ['simulation_vr.py', '20', '7']
+Overhead with server: % 1.073956491951567
+tasks_asked_waited_in_queue:  [288, 628, 0, 173]
+Sim time:  480.46639120578766
+
+argument list ['simulation_vr.py', '20', '9']
+Overhead with server: % 1.3452667821412567
+tasks_asked_waited_in_queue:  [380, 409, 0, 233]
+Sim time:  393.6022259891033
+
+argument list ['simulation_vr.py', '20', '11']
+Overhead with server: % 1.5198938992042343
+tasks_asked_waited_in_queue:  [431, 36, 0, 81]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '20', '13']
+Overhead with server: % 1.611405835543756
+tasks_asked_waited_in_queue:  [102, 7, 0, 65]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '20', '15']
+Overhead with server: % 1.6710875331564874
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+
+
+
+
+
+
+
+
+
+
+deadline_per_task=[20,33,30,25]
+for i in {3..20}; do for j in 3 5 7 9 11 13 15; do python3 simulation_vr.py "$i" "$j" >> test.log; done; done
+
+argument list ['simulation_vr.py', '3', '3']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '5']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '7']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '9']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '11']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '13']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '3', '15']
+Overhead with server: % 1.8302387267904534
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '3']
+Overhead with server: % 1.6710875331565012
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '5']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '7']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '9']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '11']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '13']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '4', '15']
+Overhead with server: % 1.8302387267904539
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '3']
+Overhead with server: % 1.473534298599575
+tasks_asked_waited_in_queue:  [1, 0, 0, 0]
+Sim time:  394.96875
+
+argument list ['simulation_vr.py', '5', '5']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '7']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '9']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '11']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '13']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '5', '15']
+Overhead with server: % 1.8302387267904525
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '3']
+Overhead with server: % 1.4599483204134385
+tasks_asked_waited_in_queue:  [28, 18, 0, 0]
+Sim time:  387.0
+
+argument list ['simulation_vr.py', '6', '5']
+Overhead with server: % 1.7241379310344822
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '7']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '9']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '11']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '13']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '6', '15']
+Overhead with server: % 1.8302387267904494
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '3']
+Overhead with server: % 1.4975401597749574
+tasks_asked_waited_in_queue:  [38, 120, 0, 15]
+Sim time:  406.3807067871094
+
+argument list ['simulation_vr.py', '7', '5']
+Overhead with server: % 1.6710875331564963
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '7']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '9']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '11']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '13']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '7', '15']
+Overhead with server: % 1.8302387267904472
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '3']
+Overhead with server: % 1.3822853302827955
+tasks_asked_waited_in_queue:  [24, 213, 1, 13]
+Sim time:  436.7766819000244
+
+argument list ['simulation_vr.py', '8', '5']
+Overhead with server: % 1.5254654309849887
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  381.03125
+
+argument list ['simulation_vr.py', '8', '7']
+Overhead with server: % 1.75066312997347
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '9']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '11']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '13']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '8', '15']
+Overhead with server: % 1.8302387267904454
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '3']
+Overhead with server: % 1.2477551574208738
+tasks_asked_waited_in_queue:  [20, 253, 4, 23]
+Sim time:  507.57821321487427
+
+argument list ['simulation_vr.py', '9', '5']
+Overhead with server: % 1.4548566538296925
+tasks_asked_waited_in_queue:  [18, 12, 0, 0]
+Sim time:  389.5
+
+argument list ['simulation_vr.py', '9', '7']
+Overhead with server: % 1.688770999115821
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '9']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '11']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '13']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '9', '15']
+Overhead with server: % 1.8302387267904439
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '3']
+Overhead with server: % 1.0921054654448492
+tasks_asked_waited_in_queue:  [48, 315, 8, 20]
+Sim time:  601.5902500152588
+
+argument list ['simulation_vr.py', '10', '5']
+Overhead with server: % 1.47490347490347
+tasks_asked_waited_in_queue:  [74, 38, 0, 0]
+Sim time:  388.5
+
+argument list ['simulation_vr.py', '10', '7']
+Overhead with server: % 1.671087533156492
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '9']
+Overhead with server: % 1.7665782493368627
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '11']
+Overhead with server: % 1.830238726790443
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '13']
+Overhead with server: % 1.830238726790443
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '10', '15']
+Overhead with server: % 1.830238726790443
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '11', '3']
+Overhead with server: % 0.9817078140644733
+tasks_asked_waited_in_queue:  [44, 377, 5, 42]
+Sim time:  677.8539764285088
+
+argument list ['simulation_vr.py', '11', '5']
+Overhead with server: % 1.5780437125717455
+tasks_asked_waited_in_queue:  [54, 168, 0, 9]
+Sim time:  383.6741280555725
+
+argument list ['simulation_vr.py', '11', '7']
+Overhead with server: % 1.52997687244262
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  383.25
+
+argument list ['simulation_vr.py', '11', '9']
+Overhead with server: % 1.7144924041475689
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '11', '11']
+Overhead with server: % 1.830238726790442
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '11', '13']
+Overhead with server: % 1.830238726790442
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '11', '15']
+Overhead with server: % 1.830238726790442
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '12', '3']
+Overhead with server: % 0.9095309205876294
+tasks_asked_waited_in_queue:  [48, 396, 13, 40]
+Sim time:  733.8947856426239
+
+argument list ['simulation_vr.py', '12', '5']
+Overhead with server: % 1.5178233710056583
+tasks_asked_waited_in_queue:  [81, 260, 2, 28]
+Sim time:  405.18548583984375
+
+argument list ['simulation_vr.py', '12', '7']
+Overhead with server: % 1.4497422680412309
+tasks_asked_waited_in_queue:  [13, 0, 0, 0]
+Sim time:  388.0
+
+argument list ['simulation_vr.py', '12', '9']
+Overhead with server: % 1.6710875331564905
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '12', '11']
+Overhead with server: % 1.777188328912458
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '12', '13']
+Overhead with server: % 1.8302387267904414
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '12', '15']
+Overhead with server: % 1.8302387267904414
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '13', '3']
+Overhead with server: % 0.8089270531956836
+tasks_asked_waited_in_queue:  [60, 499, 8, 46]
+Sim time:  838.7178247794509
+
+argument list ['simulation_vr.py', '13', '5']
+Overhead with server: % 1.4293812058280841
+tasks_asked_waited_in_queue:  [51, 314, 9, 59]
+Sim time:  424.60546875
+
+argument list ['simulation_vr.py', '13', '7']
+Overhead with server: % 1.49286280729579
+tasks_asked_waited_in_queue:  [58, 32, 0, 1]
+Sim time:  388.0
+
+argument list ['simulation_vr.py', '13', '9']
+Overhead with server: % 1.677208732911642
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '13', '11']
+Overhead with server: % 1.7322995307080096
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '13', '13']
+Overhead with server: % 1.830238726790441
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '13', '15']
+Overhead with server: % 1.830238726790441
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '14', '3']
+Overhead with server: % 0.7581699041463749
+tasks_asked_waited_in_queue:  [99, 520, 15, 43]
+Sim time:  907.2598887073982
+
+argument list ['simulation_vr.py', '14', '5']
+Overhead with server: % 1.3471423395009268
+tasks_asked_waited_in_queue:  [28, 367, 12, 40]
+Sim time:  448.56857109069824
+
+argument list ['simulation_vr.py', '14', '7']
+Overhead with server: % 1.463414634146334
+tasks_asked_waited_in_queue:  [106, 34, 0, 0]
+Sim time:  389.5
+
+argument list ['simulation_vr.py', '14', '9']
+Overhead with server: % 1.5145848915482347
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  382.0
+
+argument list ['simulation_vr.py', '14', '11']
+Overhead with server: % 1.6938234179613398
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '14', '13']
+Overhead with server: % 1.7847669571807399
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '14', '15']
+Overhead with server: % 1.8302387267904403
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '15', '3']
+Overhead with server: % 0.7014925579729557
+tasks_asked_waited_in_queue:  [117, 593, 6, 40]
+Sim time:  935.148908629315
+
+argument list ['simulation_vr.py', '15', '5']
+Overhead with server: % 1.2560551258334778
+tasks_asked_waited_in_queue:  [48, 419, 7, 45]
+Sim time:  517.4932107925415
+
+argument list ['simulation_vr.py', '15', '7']
+Overhead with server: % 1.566648396481744
+tasks_asked_waited_in_queue:  [121, 196, 1, 11]
+Sim time:  391.9194641113281
+
+argument list ['simulation_vr.py', '15', '9']
+Overhead with server: % 1.4793814432989614
+tasks_asked_waited_in_queue:  [6, 0, 0, 0]
+Sim time:  388.0
+
+argument list ['simulation_vr.py', '15', '11']
+Overhead with server: % 1.6657824933686907
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '15', '13']
+Overhead with server: % 1.745358090185666
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '15', '15']
+Overhead with server: % 1.83023872679044
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '16', '3']
+Overhead with server: % 0.6535218848079618
+tasks_asked_waited_in_queue:  [96, 671, 9, 51]
+Sim time:  1179.1877485884715
+
+argument list ['simulation_vr.py', '16', '5']
+Overhead with server: % 1.1527759193315108
+tasks_asked_waited_in_queue:  [44, 489, 5, 48]
+Sim time:  548.1334137916565
+
+argument list ['simulation_vr.py', '16', '7']
+Overhead with server: % 1.5489977791386755
+tasks_asked_waited_in_queue:  [111, 335, 4, 62]
+Sim time:  409.13551235198975
+
+argument list ['simulation_vr.py', '16', '9']
+Overhead with server: % 1.4932345360824657
+tasks_asked_waited_in_queue:  [47, 12, 0, 0]
+Sim time:  388.0
+
+argument list ['simulation_vr.py', '16', '11']
+Overhead with server: % 1.6710875331564887
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '16', '13']
+Overhead with server: % 1.7108753315649765
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '16', '15']
+Overhead with server: % 1.7904509283819516
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '17', '3']
+Overhead with server: % 0.633292113375255
+tasks_asked_waited_in_queue:  [172, 757, 11, 63]
+Sim time:  1234.4456679174166
+
+argument list ['simulation_vr.py', '17', '5']
+Overhead with server: % 1.0828877005347528
+tasks_asked_waited_in_queue:  [104, 494, 7, 29]
+Sim time:  572.0
+
+argument list ['simulation_vr.py', '17', '7']
+Overhead with server: % 1.5267450523957524
+tasks_asked_waited_in_queue:  [93, 428, 2, 65]
+Sim time:  416.1101531982422
+
+argument list ['simulation_vr.py', '17', '9']
+Overhead with server: % 1.5429627348321435
+tasks_asked_waited_in_queue:  [90, 52, 0, 14]
+Sim time:  382.0
+
+argument list ['simulation_vr.py', '17', '11']
+Overhead with server: % 1.543827016972788
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  379.5
+
+argument list ['simulation_vr.py', '17', '13']
+Overhead with server: % 1.6804493680761323
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '17', '15']
+Overhead with server: % 1.7553440474332858
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '18', '3']
+Overhead with server: % 0.5683650120919819
+tasks_asked_waited_in_queue:  [143, 885, 5, 48]
+Sim time:  1310.7773774776776
+
+argument list ['simulation_vr.py', '18', '5']
+Overhead with server: % 1.0345042171763066
+tasks_asked_waited_in_queue:  [83, 581, 8, 44]
+Sim time:  625.09814453125
+
+argument list ['simulation_vr.py', '18', '7']
+Overhead with server: % 1.4560927121531477
+tasks_asked_waited_in_queue:  [61, 448, 14, 101]
+Sim time:  416.64013671875
+
+argument list ['simulation_vr.py', '18', '9']
+Overhead with server: % 1.4931927975406145
+tasks_asked_waited_in_queue:  [180, 44, 0, 0]
+Sim time:  379.5
+
+argument list ['simulation_vr.py', '18', '11']
+Overhead with server: % 1.4541944824257937
+tasks_asked_waited_in_queue:  [5, 0, 0, 0]
+Sim time:  388.53125
+
+argument list ['simulation_vr.py', '18', '13']
+Overhead with server: % 1.6534040671971602
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '18', '15']
+Overhead with server: % 1.7241379310344718
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '19', '3']
+Overhead with server: % 0.5476967060522173
+tasks_asked_waited_in_queue:  [193, 850, 12, 44]
+Sim time:  1329.0106162747406
+
+argument list ['simulation_vr.py', '19', '5']
+Overhead with server: % 0.9587576551953626
+tasks_asked_waited_in_queue:  [111, 588, 15, 44]
+Sim time:  663.6878318786621
+
+argument list ['simulation_vr.py', '19', '7']
+Overhead with server: % 1.3792159060667128
+tasks_asked_waited_in_queue:  [43, 504, 14, 74]
+Sim time:  447.62275314331055
+
+argument list ['simulation_vr.py', '19', '9']
+Overhead with server: % 1.5402135410135263
+tasks_asked_waited_in_queue:  [221, 203, 0, 5]
+Sim time:  387.5060758590698
+
+argument list ['simulation_vr.py', '19', '11']
+Overhead with server: % 1.473141616928911
+tasks_asked_waited_in_queue:  [36, 0, 0, 0]
+Sim time:  388.0
+
+argument list ['simulation_vr.py', '19', '13']
+Overhead with server: % 1.658522965238018
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '19', '15']
+Overhead with server: % 1.6962166689934275
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+argument list ['simulation_vr.py', '20', '3']
+Overhead with server: % 0.5177392740923021
+tasks_asked_waited_in_queue:  [239, 968, 17, 56]
+Sim time:  1538.419123015965
+
+argument list ['simulation_vr.py', '20', '5']
+Overhead with server: % 0.8826027639233182
+tasks_asked_waited_in_queue:  [87, 665, 18, 58]
+Sim time:  717.1969382762909
+
+argument list ['simulation_vr.py', '20', '7']
+Overhead with server: % 1.28208635720469
+tasks_asked_waited_in_queue:  [48, 558, 8, 65]
+Sim time:  472.6670684814453
+
+argument list ['simulation_vr.py', '20', '9']
+Overhead with server: % 1.5858520900321438
+tasks_asked_waited_in_queue:  [159, 332, 1, 106]
+Sim time:  388.75
+
+argument list ['simulation_vr.py', '20', '11']
+Overhead with server: % 1.5162029459901702
+tasks_asked_waited_in_queue:  [92, 30, 0, 0]
+Sim time:  381.875
+
+argument list ['simulation_vr.py', '20', '13']
+Overhead with server: % 1.56282722513088
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  382.0
+
+argument list ['simulation_vr.py', '20', '15']
+Overhead with server: % 1.6710875331564874
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+Sim time:  377.0
+
+
+
+
+
+
+
+imulation_vr.py "$i" "$j" ; done; done
+3 3
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+3 5
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+3 7
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+3 9
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+3 11
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+3 13
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+3 15
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+4 3
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+4 5
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+4 7
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+4 9
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+4 11
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+4 13
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+4 15
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+ismetdagli@istanbul:~/H-eye$ for i in {19..20}; do for j in 3 5 7 9 11 13 15; do python3
+ simulation_vr.py "$i" "$j" ; done; done
+19 3
+tasks_asked_waited_in_queue:  [617, 3324, 59, 194]
+total task waited in queue:  4194
+Sim time:  5000.420266406765
+
+19 5
+tasks_asked_waited_in_queue:  [751, 5101, 103, 506]
+total task waited in queue:  6461
+Sim time:  5000.332948874228
+
+19 7
+tasks_asked_waited_in_queue:  [594, 5070, 116, 579]
+total task waited in queue:  6359
+Sim time:  3751.9325739429587
+
+19 9
+tasks_asked_waited_in_queue:  [1062, 1536, 1, 112]
+total task waited in queue:  2711
+Sim time:  3355.84375
+
+19 11
+tasks_asked_waited_in_queue:  [103, 1, 0, 0]
+total task waited in queue:  104
+Sim time:  3359.375
+
+19 13
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+19 15
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+20 3
+tasks_asked_waited_in_queue:  [665, 3374, 61, 204]
+total task waited in queue:  4304
+Sim time:  5005.379424516199
+
+20 5
+tasks_asked_waited_in_queue:  [616, 5203, 102, 408]
+total task waited in queue:  6329
+Sim time:  5000.6934485247875
+
+20 7
+tasks_asked_waited_in_queue:  [809, 5515, 102, 636]
+total task waited in queue:  7062
+Sim time:  4071.564495913214
+
+20 9
+tasks_asked_waited_in_queue:  [1104, 2363, 4, 254]
+total task waited in queue:  3725
+Sim time:  3355.765625
+
+20 11
+tasks_asked_waited_in_queue:  [456, 70, 0, 0]
+total task waited in queue:  526
+Sim time:  3358.0
+
+20 13
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+20 15
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+ismetdagli@istanbul:~/H-eye$ for i in 100; do for j in 10 20 30 40 50 60 70 80 90; do py
+thon3 simulation_vr.py "$i" "$j" ; done; done
+100 10
+tasks_asked_waited_in_queue:  [5041, 10920, 250, 717]
+total task waited in queue:  16928
+Sim time:  5002.259724403817
+
+100 20
+tasks_asked_waited_in_queue:  [3231, 21372, 454, 1910]
+total task waited in queue:  26967
+Sim time:  5000.347621964867
+
+Current Time = 13:53:25
+100 30
+tasks_asked_waited_in_queue:  [4501, 29742, 639, 4025]
+total task waited in queue:  38907
+Sim time:  4945.714210045732
+
+Current Time = 14:05:17
+100 40
+tasks_asked_waited_in_queue:  [4217, 24403, 1046, 7479]
+total task waited in queue:  37145
+Sim time:  3385.7473804565643
+
+Current Time = 14:05:48
+100 50
+tasks_asked_waited_in_queue:  [28329, 678, 0, 896]
+total task waited in queue:  29903
+Sim time:  3349.5
+
+Current Time = 14:05:52
+100 60
+tasks_asked_waited_in_queue:  [288, 0, 0, 0]
+total task waited in queue:  288
+Sim time:  3357.0
+
+Current Time = 14:05:54
+100 70
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+Current Time = 14:05:56
+100 80
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0
+
+Current Time = 14:05:59
+100 90
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+total task waited in queue:  0
+Sim time:  3347.0

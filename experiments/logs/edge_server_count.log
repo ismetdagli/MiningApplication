@@ -1,0 +1,221 @@
+81 50
+bandwidth_when_ask_edgeandserver:  14105
+Overhead with edgeandserver: % 5.185699894852168
+tasks_asked_server:  [5843, 8262, 0, 0]
+tasks_asked_waited_in_queue:  [65, 0, 0, 0]
+frame:  101
+iteration:  41004
+total task waited in queue:  65
+Sim time:  3358.0
+
+Current Time = 15:51:03
+82 50
+bandwidth_when_ask_edgeandserver:  14332
+Overhead with edgeandserver: % 5.2033488480166135
+tasks_asked_server:  [5968, 8364, 0, 0]
+tasks_asked_waited_in_queue:  [355, 0, 0, 0]
+frame:  101
+iteration:  41754
+total task waited in queue:  355
+Sim time:  3359.0
+
+Current Time = 15:51:05
+83 50
+bandwidth_when_ask_edgeandserver:  14579
+Overhead with edgeandserver: % 5.2308100777140725
+tasks_asked_server:  [6113, 8466, 0, 0]
+tasks_asked_waited_in_queue:  [233, 0, 0, 0]
+frame:  101
+iteration:  42144
+total task waited in queue:  233
+Sim time:  3358.0
+
+Current Time = 15:51:07
+84 50
+bandwidth_when_ask_edgeandserver:  15356
+Overhead with edgeandserver: % 5.453744743720877
+tasks_asked_server:  [6775, 8579, 0, 2]
+tasks_asked_waited_in_queue:  [971, 11, 0, 0]
+frame:  101
+iteration:  43122
+total task waited in queue:  982
+Sim time:  3352.0
+
+Current Time = 15:51:08
+85 50
+bandwidth_when_ask_edgeandserver:  15082
+Overhead with edgeandserver: % 5.283957537750061
+tasks_asked_server:  [6401, 8676, 0, 5]
+tasks_asked_waited_in_queue:  [411, 6, 0, 0]
+frame:  101
+iteration:  43281
+total task waited in queue:  417
+Sim time:  3358.0
+
+Current Time = 15:51:10
+86 50
+bandwidth_when_ask_edgeandserver:  15631
+Overhead with edgeandserver: % 5.412621023034198
+tasks_asked_server:  [6847, 8772, 0, 12]
+tasks_asked_waited_in_queue:  [1023, 0, 0, 0]
+frame:  101
+iteration:  44351
+total task waited in queue:  1023
+Sim time:  3358.0
+
+Current Time = 15:51:12
+87 50
+bandwidth_when_ask_edgeandserver:  15990
+Overhead with edgeandserver: % 5.473290751884332
+tasks_asked_server:  [7105, 8874, 0, 11]
+tasks_asked_waited_in_queue:  [965, 0, 0, 0]
+frame:  101
+iteration:  44805
+total task waited in queue:  965
+Sim time:  3358.0
+
+Current Time = 15:51:14
+88 50
+bandwidth_when_ask_edgeandserver:  16501
+Overhead with edgeandserver: % 5.585682562894359
+tasks_asked_server:  [7439, 9042, 2, 18]
+tasks_asked_waited_in_queue:  [1398, 66, 0, 0]
+frame:  101
+iteration:  45675
+total task waited in queue:  1464
+Sim time:  3357.0
+
+Current Time = 15:51:15
+89 50
+bandwidth_when_ask_edgeandserver:  18044
+Overhead with edgeandserver: % 6.039367680479828
+tasks_asked_server:  [8828, 9183, 5, 28]
+tasks_asked_waited_in_queue:  [2792, 105, 0, 0]
+frame:  101
+iteration:  47341
+total task waited in queue:  2897
+Sim time:  3357.0
+
+Current Time = 15:51:17
+90 50
+bandwidth_when_ask_edgeandserver:  24543
+Overhead with edgeandserver: % 8.123324396782841
+tasks_asked_server:  [15056, 9451, 0, 36]
+tasks_asked_waited_in_queue:  [9091, 271, 0, 0]
+frame:  101
+iteration:  53452
+total task waited in queue:  9362
+Sim time:  3357.0
+
+
+
+
+Current Time = 15:51:02
+81 50
+bandwidth_when_ask_edgeandserver:  14105
+Overhead with edgeandserver: % 5.185699894852168
+tasks_asked_server:  [5843, 8262, 0, 0]
+tasks_asked_waited_in_queue:  [65, 0, 0, 0]
+frame:  101
+iteration:  41004
+total task waited in queue:  65
+Sim time:  3358.0
+
+Current Time = 15:51:03
+82 50
+bandwidth_when_ask_edgeandserver:  14332
+Overhead with edgeandserver: % 5.2033488480166135
+tasks_asked_server:  [5968, 8364, 0, 0]
+tasks_asked_waited_in_queue:  [355, 0, 0, 0]
+frame:  101
+iteration:  41754
+total task waited in queue:  355
+Sim time:  3359.0
+
+Current Time = 15:51:05
+83 50
+bandwidth_when_ask_edgeandserver:  14579
+Overhead with edgeandserver: % 5.2308100777140725
+tasks_asked_server:  [6113, 8466, 0, 0]
+tasks_asked_waited_in_queue:  [233, 0, 0, 0]
+frame:  101
+iteration:  42144
+total task waited in queue:  233
+Sim time:  3358.0
+
+Current Time = 15:51:07
+84 50
+bandwidth_when_ask_edgeandserver:  15356
+Overhead with edgeandserver: % 5.453744743720877
+tasks_asked_server:  [6775, 8579, 0, 2]
+tasks_asked_waited_in_queue:  [971, 11, 0, 0]
+frame:  101
+iteration:  43122
+total task waited in queue:  982
+Sim time:  3352.0
+
+Current Time = 15:51:08
+85 50
+bandwidth_when_ask_edgeandserver:  15082
+Overhead with edgeandserver: % 5.283957537750061
+tasks_asked_server:  [6401, 8676, 0, 5]
+tasks_asked_waited_in_queue:  [411, 6, 0, 0]
+frame:  101
+iteration:  43281
+total task waited in queue:  417
+Sim time:  3358.0
+
+Current Time = 15:51:10
+86 50
+bandwidth_when_ask_edgeandserver:  15631
+Overhead with edgeandserver: % 5.412621023034198
+tasks_asked_server:  [6847, 8772, 0, 12]
+tasks_asked_waited_in_queue:  [1023, 0, 0, 0]
+frame:  101
+iteration:  44351
+total task waited in queue:  1023
+Sim time:  3358.0
+
+Current Time = 15:51:12
+87 50
+bandwidth_when_ask_edgeandserver:  15990
+Overhead with edgeandserver: % 5.473290751884332
+tasks_asked_server:  [7105, 8874, 0, 11]
+tasks_asked_waited_in_queue:  [965, 0, 0, 0]
+frame:  101
+iteration:  44805
+total task waited in queue:  965
+Sim time:  3358.0
+
+Current Time = 15:51:14
+88 50
+bandwidth_when_ask_edgeandserver:  16501
+Overhead with edgeandserver: % 5.585682562894359
+tasks_asked_server:  [7439, 9042, 2, 18]
+tasks_asked_waited_in_queue:  [1398, 66, 0, 0]
+frame:  101
+iteration:  45675
+total task waited in queue:  1464
+Sim time:  3357.0
+
+Current Time = 15:51:15
+89 50
+bandwidth_when_ask_edgeandserver:  18044
+Overhead with edgeandserver: % 6.039367680479828
+tasks_asked_server:  [8828, 9183, 5, 28]
+tasks_asked_waited_in_queue:  [2792, 105, 0, 0]
+frame:  101
+iteration:  47341
+total task waited in queue:  2897
+Sim time:  3357.0
+
+Current Time = 15:51:17
+90 50
+bandwidth_when_ask_edgeandserver:  24543
+Overhead with edgeandserver: % 8.123324396782841
+tasks_asked_server:  [15056, 9451, 0, 36]
+tasks_asked_waited_in_queue:  [9091, 271, 0, 0]
+frame:  101
+iteration:  53452
+total task waited in queue:  9362
+Sim time:  3357.0

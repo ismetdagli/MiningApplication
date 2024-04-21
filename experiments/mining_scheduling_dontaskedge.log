@@ -1,0 +1,230 @@
+
+
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '10', '0']
+bandwidth_when_ask_edgeandserver:  22.100000000000005
+Overhead with edgeandserver: % 0.44173495902458537
+bandwidth_when_ask_edge:  83.0
+Overhead with bandwidth_when_ask_edge: % 1.6590045972416552
+bandwidth_when_ask_server:  5.099999999999999
+Overhead with server: % 0.10193883669798118
+tasks_asked_edge:  [35, 70, 101, 0]
+tasks_asked_server:  [16, 45, 62, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  22.43442136498519
+task_processing_time0:  25.273611111111126
+task_processing_time1:  35.243806306306304
+task_processing_time2:  7.7863347457627174
+frame:  100
+iteration:  639
+task_completed:  337
+time_interval_switched:  418
+total task waited in queue:  0
+Sim time:  1000.6
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '10', '1']
+bandwidth_when_ask_edgeandserver:  129.99999999999983
+Overhead with edgeandserver: % 2.5984409354387337
+bandwidth_when_ask_edge:  0
+Overhead with bandwidth_when_ask_edge: % 0.0
+bandwidth_when_ask_server:  30.00000000000005
+Overhead with server: % 0.5996402158704787
+tasks_asked_edge:  [0, 0, 0, 0]
+tasks_asked_server:  [0, 0, 101, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  15.784006734006732
+task_processing_time0:  16.12121212121212
+task_processing_time1:  31.25
+task_processing_time2:  0.6000000000000159
+frame:  100
+iteration:  599
+task_completed:  297
+time_interval_switched:  396
+total task waited in queue:  0
+Sim time:  1000.6
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '2', '1']
+bandwidth_when_ask_edgeandserver:  364.0000000000019
+Overhead with edgeandserver: % 21.274108708357797
+bandwidth_when_ask_edge:  0
+Overhead with bandwidth_when_ask_edge: % 0.0
+bandwidth_when_ask_server:  83.99999999999956
+Overhead with server: % 4.909409701928672
+tasks_asked_edge:  [0, 0, 0, 0]
+tasks_asked_server:  [88, 189, 298, 0]
+tasks_asked_waited_in_queue:  [0, 34, 134, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  7.147504990019944
+task_processing_time0:  12.785151515151522
+task_processing_time1:  7.1918181818181806
+task_processing_time2:  1.6649122807017556
+frame:  171
+iteration:  1049
+task_completed:  501
+time_interval_switched:  611
+total task waited in queue:  168
+Sim time:  342.2
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '2', '0']
+bandwidth_when_ask_edgeandserver:  425.1000000000024
+Overhead with edgeandserver: % 25.940503432494427
+bandwidth_when_ask_edge:  32.0
+Overhead with bandwidth_when_ask_edge: % 1.952707856598017
+bandwidth_when_ask_server:  98.09999999999943
+Overhead with server: % 5.986270022883259
+tasks_asked_edge:  [139, 238, 375, 0]
+tasks_asked_server:  [128, 228, 372, 0]
+tasks_asked_waited_in_queue:  [0, 80, 212, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  7.753393213572829
+task_processing_time0:  9.120882352941194
+task_processing_time1:  13.177717391304347
+task_processing_time2:  1.2487500000000016
+frame:  163
+iteration:  1072
+task_completed:  501
+time_interval_switched:  641
+total task waited in queue:  292
+Sim time:  327.75
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '3', '0']
+bandwidth_when_ask_edgeandserver:  145.59999999999997
+Overhead with edgeandserver: % 6.143459915611812
+bandwidth_when_ask_edge:  46.0
+Overhead with bandwidth_when_ask_edge: % 1.940928270042194
+bandwidth_when_ask_server:  33.60000000000004
+Overhead with server: % 1.4177215189873433
+tasks_asked_edge:  [121, 147, 159, 0]
+tasks_asked_server:  [114, 144, 155, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  9.276821357285426
+task_processing_time0:  13.704469273743014
+task_processing_time1:  10.346836419753087
+task_processing_time2:  3.2400000000000007
+frame:  158
+iteration:  977
+task_completed:  501
+time_interval_switched:  492
+total task waited in queue:  0
+Sim time:  474.0
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '3', '1']
+bandwidth_when_ask_edgeandserver:  219.7000000000006
+Overhead with edgeandserver: % 8.65642237982666
+bandwidth_when_ask_edge:  0
+Overhead with bandwidth_when_ask_edge: % 0.0
+bandwidth_when_ask_server:  50.699999999999875
+Overhead with server: % 1.9976359338061414
+tasks_asked_edge:  [0, 0, 0, 0]
+tasks_asked_server:  [58, 121, 170, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  8.782435129740508
+task_processing_time0:  14.319090909090907
+task_processing_time1:  10.805722891566266
+task_processing_time2:  1.4329411764705942
+frame:  169
+iteration:  1010
+task_completed:  501
+time_interval_switched:  566
+total task waited in queue:  0
+Sim time:  507.6
+
+
+
+
+
+
+
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '4', '1']
+bandwidth_when_ask_edgeandserver:  219.7000000000006
+Overhead with edgeandserver: % 6.494235885308916
+bandwidth_when_ask_edge:  0
+Overhead with bandwidth_when_ask_edge: % 0.0
+bandwidth_when_ask_server:  50.699999999999875
+Overhead with server: % 1.4986698196866648
+tasks_asked_edge:  [0, 0, 0, 0]
+tasks_asked_server:  [41, 125, 170, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  9.559780439121758
+task_processing_time0:  17.73333333333334
+task_processing_time1:  10.155325443786982
+task_processing_time2:  1.1788235294117742
+frame:  169
+iteration:  1010
+task_completed:  501
+time_interval_switched:  645
+total task waited in queue:  0
+Sim time:  676.6
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '4', '0']
+bandwidth_when_ask_edgeandserver:  120.89999999999982
+Overhead with edgeandserver: % 3.8564593301435353
+bandwidth_when_ask_edge:  63.0
+Overhead with bandwidth_when_ask_edge: % 2.0095693779904304
+bandwidth_when_ask_server:  27.900000000000045
+Overhead with server: % 0.8899521531100494
+tasks_asked_edge:  [113, 149, 157, 0]
+tasks_asked_server:  [89, 138, 150, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  11.824575848303416
+task_processing_time0:  19.06045197740116
+task_processing_time1:  12.964939024390244
+task_processing_time2:  2.6510156250000043
+frame:  156
+iteration:  971
+task_completed:  501
+time_interval_switched:  641
+total task waited in queue:  0
+Sim time:  627.0
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '1', '1']
+bandwidth_when_ask_edgeandserver:  822.8999999999922
+Overhead with edgeandserver: % 84.60273982375159
+bandwidth_when_ask_edge:  0
+Overhead with bandwidth_when_ask_edge: % 0.0
+bandwidth_when_ask_server:  189.90000000000148
+Overhead with server: % 19.52370919009686
+tasks_asked_edge:  [0, 0, 0, 0]
+tasks_asked_server:  [5945, 6479, 6684, 0]
+tasks_asked_waited_in_queue:  [5823, 6316, 6518, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  4.892205823403692
+task_processing_time0:  8.386573932554423
+task_processing_time1:  5.175012044879987
+task_processing_time2:  1.2055697489178172
+frame:  194
+iteration:  19179
+task_completed:  501
+time_interval_switched:  640
+total task waited in queue:  18657
+Sim time:  194.53270702918044
+
+argument list ['mining_scheduling_priority_dontaskedge.py', '5', '2', '1', '0']
+bandwidth_when_ask_edgeandserver:  783.8999999999936
+Overhead with edgeandserver: % 83.2288139762827
+bandwidth_when_ask_edge:  21.0
+Overhead with bandwidth_when_ask_edge: % 2.229627622786007
+bandwidth_when_ask_server:  180.90000000000114
+Overhead with server: % 19.206649379142437
+tasks_asked_edge:  [6541, 6792, 6963, 0]
+tasks_asked_server:  [6540, 6789, 6961, 0]
+tasks_asked_waited_in_queue:  [6393, 6632, 6805, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time_total:  4.358742039021475
+task_processing_time0:  5.853467236944707
+task_processing_time1:  5.279841210247303
+task_processing_time2:  2.0771617203472834
+frame:  188
+iteration:  20327
+task_completed:  501
+time_interval_switched:  632
+total task waited in queue:  19830
+Sim time:  188.3722625732424
+

@@ -1,0 +1,166 @@
+NOTE: saved as : cp simulation_vr.py experiment_scripts/vr_weak_scaling
+.py
+
+
+bandwidth_when_ask_edgeandserver:  724
+Overhead with edgeandserver: % 0.07210437207449456
+tasks_asked_server:  [24879, 30583, 0, 481]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+frame:  101
+iteration:  151655
+total task waited in queue:  0
+Sim time:  3347.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 300 200
+Current Time = 16:30:35
+300 200
+bandwidth_when_ask_edgeandserver:  55943
+Overhead with edgeandserver: % 5.57145702619261
+tasks_asked_server:  [24879, 30583, 0, 481]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+frame:  101
+iteration:  151655
+time_interval_switched:  4161
+total task waited in queue:  0
+Sim time:  3347.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 85 50
+Current Time = 16:31:58
+85 50
+bandwidth_when_ask_edgeandserver:  15082
+Overhead with edgeandserver: % 5.283957537750061
+tasks_asked_server:  [6401, 8676, 0, 5]
+tasks_asked_waited_in_queue:  [411, 6, 0, 0]
+frame:  101
+iteration:  43281
+time_interval_switched:  5702
+total task waited in queue:  417
+Sim time:  3358.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 170 100
+Current Time = 16:32:08
+170 100
+bandwidth_when_ask_edgeandserver:  31305
+Overhead with edgeandserver: % 5.485464963465279
+tasks_asked_server:  [13944, 17351, 0, 10]
+tasks_asked_waited_in_queue:  [1928, 11, 0, 0]
+frame:  101
+iteration:  87594
+time_interval_switched:  6039
+total task waited in queue:  1939
+Sim time:  3357.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 85 50
+Current Time = 16:33:08
+85 50
+bandwidth_when_ask_edgeandserver:  812
+Overhead with edgeandserver: % 0.2844830606453421
+tasks_asked_server:  [6401, 8676, 0, 5]
+tasks_asked_waited_in_queue:  [411, 6, 0, 0]
+frame:  101
+iteration:  43281
+time_interval_switched:  5702
+total task waited in queue:  417
+Sim time:  3358.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 85 50
+Current Time = 16:33:48
+85 50
+bandwidth_when_ask_edgeandserver:  1055.5999999999842
+Overhead with edgeandserver: % 0.36982797883893925
+Overhead with server: % 0.08534491819360387
+tasks_asked_server:  [6401, 8676, 0, 5]
+tasks_asked_waited_in_queue:  [411, 6, 0, 0]
+frame:  101
+iteration:  43281
+time_interval_switched:  5702
+total task waited in queue:  417
+Sim time:  3358.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 170 100
+Current Time = 16:52:45
+170 100
+bandwidth_when_ask_edgeandserver:  1080.2999999999834
+Overhead with edgeandserver: % 0.18929716658781184
+Overhead with server: % 0.0436839615202656
+tasks_asked_server:  [13944, 17351, 0, 10]
+tasks_asked_waited_in_queue:  [1928, 11, 0, 0]
+frame:  101
+iteration:  87594
+time_interval_switched:  6039
+total task waited in queue:  1939
+Sim time:  3357.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 340 200
+Current Time = 16:52:56
+340 200
+bandwidth_when_ask_edgeandserver:  1097.1999999999828
+Overhead with edgeandserver: % 0.0962726379334535
+Overhead with server: % 0.02221676260002842
+tasks_asked_server:  [29059, 34766, 0, 20]
+tasks_asked_waited_in_queue:  [5565, 86, 0, 0]
+frame:  101
+iteration:  176929
+time_interval_switched:  6215
+total task waited in queue:  5651
+Sim time:  3352.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 680 400
+Current Time = 16:54:30
+680 400
+bandwidth_when_ask_edgeandserver:  1069.8999999999837
+Overhead with edgeandserver: % 0.04686870279836618
+Overhead with server: % 0.01081585449193098
+tasks_asked_server:  [71997, 69411, 0, 40]
+tasks_asked_waited_in_queue:  [25095, 51, 0, 0]
+frame:  101
+iteration:  367928
+time_interval_switched:  5984
+total task waited in queue:  25146
+Sim time:  3357.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 680 400
+Current Time = 16:58:33
+680 400
+bandwidth_when_ask_edgeandserver:  1069.8999999999837
+Overhead with edgeandserver: % 0.04686870279836618
+Overhead with server: % 0.01081585449193098
+tasks_asked_server:  [71997, 69411, 0, 40]
+tasks_asked_waited_in_queue:  [25095, 51, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0, 0]
+frame:  101
+iteration:  367928
+time_interval_switched:  5984
+total task waited in queue:  25146
+Sim time:  3357.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 340 200
+Current Time = 17:00:47
+340 200
+python3 simulation_vr.py 170 100
+bandwidth_when_ask_edgeandserver:  1097.1999999999828
+Overhead with edgeandserver: % 0.0962726379334535
+Overhead with server: % 0.02221676260002842
+tasks_asked_server:  [29059, 34766, 0, 20]
+tasks_asked_waited_in_queue:  [5565, 86, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0, 0]
+frame:  101
+iteration:  176929
+time_interval_switched:  6215
+total task waited in queue:  5651
+Sim time:  3352.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_vr.py 170 100
+Current Time = 17:01:13
+170 100
+bandwidth_when_ask_edgeandserver:  1080.2999999999834
+Overhead with edgeandserver: % 0.18929716658781184
+Overhead with server: % 0.0436839615202656
+tasks_asked_server:  [13944, 17351, 0, 10]
+tasks_asked_waited_in_queue:  [1928, 11, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0, 0]
+frame:  101
+iteration:  87594
+time_interval_switched:  6039
+total task waited in queue:  1939
+Sim time:  3357.0

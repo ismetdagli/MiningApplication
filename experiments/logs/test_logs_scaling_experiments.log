@@ -1,0 +1,4665 @@
+ismetdagli@istanbul:~$ cd H-eye/
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_
+python3: can't open file 'simulation_mining_': [Errno 2] No such file or directory
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 10000 1000
+Traceback (most recent call last):
+  File "simulation_mining_strongscaling_v2.py", line 60, in <module>
+    for i in range(tasks_amount):
+TypeError: 'str' object cannot be interpreted as an integer
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 10000 1000
+bandwidth_when_ask_edgeandserver:  0
+Overhead with edgeandserver: % 0.0
+bandwidth_when_ask_server:  0
+Overhead with server: % 0.0
+tasks_asked_server:  [946, 947, 947, 0]
+tasks_asked_waited_in_queue:  [922, 923, 923, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  0.30000000000000004
+frame:  0
+iteration:  3000
+task_completed:  1
+time_interval_switched:  0
+total task waited in queue:  2768
+Sim time:  0.30000000000000004
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 10000 1000
+bandwidth_when_ask_edgeandserver:  1023.0999999999852
+Overhead with edgeandserver: % 52.53570396995976
+bandwidth_when_ask_server:  236.10000000000323
+Overhead with server: % 12.123623993067978
+tasks_asked_server:  [1257, 1322, 1259, 0]
+tasks_asked_waited_in_queue:  [922, 988, 923, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  2.0260749908447293
+frame:  0
+iteration:  3999
+task_completed:  1000
+time_interval_switched:  787
+total task waited in queue:  2833
+Sim time:  24.34296875
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 10000 1000
+bandwidth_when_ask_edgeandserver:  1023.0999999999852
+Overhead with edgeandserver: % 52.53570396995976
+bandwidth_when_ask_server:  236.10000000000323
+Overhead with server: % 12.123623993067978
+tasks_asked_server:  [1257, 1322, 1259, 0]
+tasks_asked_waited_in_queue:  [922, 988, 923, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  2.0260749908447293
+frame:  0
+iteration:  3999
+task_completed:  1000
+time_interval_switched:  787
+total task waited in queue:  2833
+Sim time:  24.34296875
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 10000 1000
+bandwidth_when_ask_edgeandserver:  0
+Traceback (most recent call last):
+  File "simulation_mining_strongscaling_v2.py", line 530, in <module>
+    print("Overhead with edgeandserver: %",100*bandwidth_when_ask_edgeandserver/sim_time/number_of_edges)
+ZeroDivisionError: float division by zero
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 10000 1000
+bandwidth_when_ask_edgeandserver:  1023.0999999999852
+Overhead with edgeandserver: % 52.53570396995976
+bandwidth_when_ask_server:  236.10000000000323
+Overhead with server: % 12.123623993067978
+tasks_asked_server:  [1257, 1322, 1259, 0]
+tasks_asked_waited_in_queue:  [922, 988, 923, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  2.0260749908447293
+frame:  0
+iteration:  3999
+task_completed:  1000
+time_interval_switched:  787
+total task waited in queue:  2833
+Sim time:  24.34296875
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 10000 1000
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.0
+Sim time:  0.30000000000000004
+Sim time:  0.30000000000000004
+Sim time:  0.30000000000000004
+Sim time:  0.30000000000000004
+Sim time:  0.30000000000000004
+Sim time:  0.30000000000000004
+Sim time:  0.30000000000000004
+Sim time:  0.30000000000000004
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.4
+Sim time:  0.5
+Sim time:  0.55
+Sim time:  0.6000000000000001
+Sim time:  0.6000000000000001
+Sim time:  0.6000000000000001
+Sim time:  0.6000000000000001
+Sim time:  0.7
+Sim time:  0.8
+Sim time:  0.8999999999999999
+Sim time:  0.8999999999999999
+Sim time:  0.8999999999999999
+Sim time:  0.8999999999999999
+Sim time:  0.8999999999999999
+Sim time:  0.8999999999999999
+Sim time:  0.8999999999999999
+Sim time:  0.8999999999999999
+Sim time:  0.8999999999999999
+Sim time:  0.9
+Sim time:  0.9
+Sim time:  1.0
+Sim time:  1.0
+Sim time:  1.0
+Sim time:  1.0
+Sim time:  1.0999999999999999
+Sim time:  1.0999999999999999
+Sim time:  1.0999999999999999
+Sim time:  1.1
+Sim time:  1.15
+Sim time:  1.15
+Sim time:  1.2
+Sim time:  1.2999999999999998
+Sim time:  1.3499999999999999
+Sim time:  1.3500000000000003
+Sim time:  1.5
+Sim time:  1.5
+Sim time:  1.5
+Sim time:  1.5749999999999995
+Sim time:  1.6
+Sim time:  1.6
+Sim time:  1.65
+Sim time:  1.6999999999999997
+Sim time:  1.725
+Sim time:  1.75
+Sim time:  1.7749999999999995
+Sim time:  1.8499999999999999
+Sim time:  1.9499999999999997
+Sim time:  1.95
+Sim time:  2.1
+Sim time:  2.15
+Sim time:  2.2
+Sim time:  2.3
+Sim time:  2.35
+Sim time:  2.3749999999999996
+Sim time:  2.55
+Sim time:  2.5500000000000003
+Sim time:  2.7500000000000004
+Sim time:  2.8
+Sim time:  2.8000000000000003
+Sim time:  2.9
+Sim time:  2.9
+Sim time:  2.9
+Sim time:  2.9
+Sim time:  2.9749999999999996
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.0
+Sim time:  3.000000000000001
+Sim time:  3.1
+Sim time:  3.4
+Sim time:  3.4
+Sim time:  3.5
+Sim time:  3.575000000000001
+Sim time:  3.5999999999999996
+Sim time:  3.5999999999999996
+Sim time:  3.6
+Sim time:  3.6
+Sim time:  3.600000000000001
+Sim time:  3.7
+Sim time:  3.75
+Sim time:  3.75
+Sim time:  3.75
+Sim time:  3.75
+Sim time:  3.75
+Sim time:  3.75
+Sim time:  3.75
+Sim time:  3.75
+Sim time:  3.75
+Sim time:  3.75
+Sim time:  3.7750000000000012
+Sim time:  3.8000000000000003
+Sim time:  3.8500000000000005
+Sim time:  3.8999999999999995
+Sim time:  3.95
+Sim time:  3.95
+Sim time:  3.95
+Sim time:  3.9750000000000005
+Sim time:  3.9999999999999996
+Sim time:  3.9999999999999996
+Sim time:  4.0
+Sim time:  4.0
+Sim time:  4.15
+Sim time:  4.175000000000001
+Sim time:  4.199999999999999
+Sim time:  4.2
+Sim time:  4.2
+Sim time:  4.2
+Sim time:  4.2
+Sim time:  4.2749999999999995
+Sim time:  4.35
+Sim time:  4.35
+Sim time:  4.35
+Sim time:  4.375000000000001
+Sim time:  4.4
+Sim time:  4.45
+Sim time:  4.475
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5
+Sim time:  4.5249999999999995
+Sim time:  4.55
+Sim time:  4.6
+Sim time:  4.6
+Sim time:  4.6499999999999995
+Sim time:  4.65
+Sim time:  4.7
+Sim time:  4.799999999999999
+Sim time:  4.8
+Sim time:  4.8
+Sim time:  4.8374999999999995
+Sim time:  4.8500000000000005
+Sim time:  4.949999999999999
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.0
+Sim time:  5.043750000000001
+Sim time:  5.050000000000001
+Sim time:  5.074999999999999
+Sim time:  5.2
+Sim time:  5.2
+Sim time:  5.2
+Sim time:  5.2
+Sim time:  5.243750000000001
+Sim time:  5.299999999999999
+Sim time:  5.387499999999999
+Sim time:  5.3999999999999995
+Sim time:  5.4
+Sim time:  5.4
+Sim time:  5.40625
+Sim time:  5.4125
+Sim time:  5.449999999999999
+Sim time:  5.449999999999999
+Sim time:  5.450000000000001
+Sim time:  5.5874999999999995
+Sim time:  5.6
+Sim time:  5.6
+Sim time:  5.6
+Sim time:  5.6
+Sim time:  5.6000000000000005
+Sim time:  5.618749999999999
+Sim time:  5.6499999999999995
+Sim time:  5.65
+Sim time:  5.699999999999999
+Sim time:  5.699999999999999
+Sim time:  5.7875
+Sim time:  5.8
+Sim time:  5.818749999999999
+Sim time:  5.843750000000001
+Sim time:  5.8999999999999995
+Sim time:  5.975
+Sim time:  5.999999999999999
+Sim time:  6.0
+Sim time:  6.0
+Sim time:  6.0
+Sim time:  6.0
+Sim time:  6.0
+Sim time:  6.0
+Sim time:  6.049999999999999
+Sim time:  6.1
+Sim time:  6.125
+Sim time:  6.215624999999999
+Sim time:  6.237499999999999
+Sim time:  6.249999999999999
+Sim time:  6.249999999999999
+Sim time:  6.25
+Sim time:  6.25
+Sim time:  6.4156249999999995
+Sim time:  6.449999999999999
+Sim time:  6.449999999999999
+Sim time:  6.449999999999999
+Sim time:  6.5
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.5625
+Sim time:  6.615625
+Sim time:  6.628124999999997
+Sim time:  6.6499999999999995
+Sim time:  6.6499999999999995
+Sim time:  6.7
+Sim time:  6.7124999999999995
+Sim time:  6.712500000000002
+Sim time:  6.824999999999999
+Sim time:  6.828124999999997
+Sim time:  6.837499999999999
+Sim time:  6.8374999999999995
+Sim time:  6.85
+Sim time:  6.875
+Sim time:  6.9
+Sim time:  6.9
+Sim time:  7.0
+Sim time:  7.0249999999999995
+Sim time:  7.0375
+Sim time:  7.049999999999999
+Sim time:  7.1
+Sim time:  7.1000000000000005
+Sim time:  7.1499999999999995
+Sim time:  7.1499999999999995
+Sim time:  7.249999999999999
+Sim time:  7.275000000000002
+Sim time:  7.3
+Sim time:  7.312499999999999
+Sim time:  7.3125
+Sim time:  7.3374999999999995
+Sim time:  7.35
+Sim time:  7.3500000000000005
+Sim time:  7.428124999999997
+Sim time:  7.4750000000000005
+Sim time:  7.5
+Sim time:  7.5
+Sim time:  7.5
+Sim time:  7.5
+Sim time:  7.5
+Sim time:  7.5
+Sim time:  7.537499999999998
+Sim time:  7.5375
+Sim time:  7.628124999999997
+Sim time:  7.637499999999999
+Sim time:  7.7
+Sim time:  7.7
+Sim time:  7.7
+Sim time:  7.7375
+Sim time:  7.7749999999999995
+Sim time:  7.799999999999999
+Sim time:  7.849999999999999
+Sim time:  7.85
+Sim time:  7.9
+Sim time:  7.912499999999999
+Sim time:  7.9125
+Sim time:  7.925000000000001
+Sim time:  7.9375
+Sim time:  7.949999999999999
+Sim time:  8.025000000000002
+Sim time:  8.049999999999999
+Sim time:  8.075
+Sim time:  8.1
+Sim time:  8.1
+Sim time:  8.112499999999999
+Sim time:  8.1375
+Sim time:  8.237499999999999
+Sim time:  8.249999999999998
+Sim time:  8.25
+Sim time:  8.299999999999999
+Sim time:  8.3
+Sim time:  8.3625
+Sim time:  8.375
+Sim time:  8.385937499999995
+Sim time:  8.437499999999998
+Sim time:  8.45
+Sim time:  8.45
+Sim time:  8.499999999999998
+Sim time:  8.5
+Sim time:  8.5125
+Sim time:  8.525
+Sim time:  8.549999999999999
+Sim time:  8.575
+Sim time:  8.625
+Sim time:  8.649999999999999
+Sim time:  8.674999999999999
+Sim time:  8.7
+Sim time:  8.712499999999999
+Sim time:  8.749999999999998
+Sim time:  8.75
+Sim time:  8.75
+Sim time:  8.825000000000001
+Sim time:  8.825000000000003
+Sim time:  8.846875
+Sim time:  8.849999999999998
+Sim time:  8.862499999999995
+Sim time:  8.86875
+Sim time:  8.934374999999996
+Sim time:  8.95
+Sim time:  9.0
+Sim time:  9.0
+Sim time:  9.0
+Sim time:  9.0
+Sim time:  9.0
+Sim time:  9.0
+Sim time:  9.046875
+Sim time:  9.049999999999999
+Sim time:  9.06875
+Sim time:  9.112499999999999
+Sim time:  9.115625
+Sim time:  9.149999999999999
+Sim time:  9.16875
+Sim time:  9.174999999999999
+Sim time:  9.174999999999999
+Sim time:  9.222656249999993
+Sim time:  9.246875
+Sim time:  9.274999999999999
+Sim time:  9.3234375
+Sim time:  9.357421875
+Sim time:  9.368749999999999
+Sim time:  9.422656249999992
+Sim time:  9.425
+Sim time:  9.449999999999998
+Sim time:  9.5
+Sim time:  9.5234375
+Sim time:  9.524999999999997
+Sim time:  9.549999999999999
+Sim time:  9.622656249999991
+Sim time:  9.649999999999999
+Sim time:  9.693749999999998
+Sim time:  9.749999999999998
+Sim time:  9.767187499999993
+Sim time:  9.774999999999999
+Sim time:  9.775000000000002
+Sim time:  9.787500000000001
+Sim time:  9.846874999999999
+Sim time:  9.850000000000001
+Sim time:  9.868750000000002
+Sim time:  9.893749999999997
+Sim time:  9.911718749999999
+Sim time:  9.943750000000001
+Sim time:  9.974999999999998
+Sim time:  10.025
+Sim time:  10.046874999999998
+Sim time:  10.093749999999996
+Sim time:  10.1375
+Sim time:  10.168749999999996
+Sim time:  10.174999999999997
+Sim time:  10.222656249999991
+Sim time:  10.224804687500004
+Sim time:  10.229296875
+Sim time:  10.293749999999996
+Sim time:  10.299999999999999
+Sim time:  10.306249999999999
+Sim time:  10.3125
+Sim time:  10.374999999999996
+Sim time:  10.375000000000002
+Sim time:  10.4
+Sim time:  10.429296874999999
+Sim time:  10.450000000000001
+Sim time:  10.506249999999998
+Sim time:  10.511718749999998
+Sim time:  10.553124999999996
+Sim time:  10.575000000000001
+Sim time:  10.625
+Sim time:  10.65
+Sim time:  10.743749999999999
+Sim time:  10.75
+Sim time:  10.753124999999995
+Sim time:  10.799999999999997
+Sim time:  10.8625
+Sim time:  10.875
+Sim time:  10.893749999999995
+Sim time:  10.9125
+Sim time:  10.953124999999995
+Sim time:  10.953125
+Sim time:  10.9625
+Sim time:  11.0
+Sim time:  11.075
+Sim time:  11.1125
+Sim time:  11.121582031249984
+Sim time:  11.125
+Sim time:  11.153124999999994
+Sim time:  11.174999999999999
+Sim time:  11.175
+Sim time:  11.182812499999997
+Sim time:  11.2
+Sim time:  11.287500000000003
+Sim time:  11.321582031249983
+Sim time:  11.325000000000003
+Sim time:  11.374999999999998
+Sim time:  11.38124999999999
+Sim time:  11.399999999999997
+Sim time:  11.399999999999999
+Sim time:  11.412500000000001
+Sim time:  11.45
+Sim time:  11.525000000000002
+Sim time:  11.532812499999999
+Sim time:  11.553125
+Sim time:  11.559374999999998
+Sim time:  11.56875
+Sim time:  11.599999999999996
+Sim time:  11.649999999999999
+Sim time:  11.649999999999999
+Sim time:  11.678124999999993
+Sim time:  11.725
+Sim time:  11.753124999999999
+Sim time:  11.775
+Sim time:  11.799999999999995
+Sim time:  11.8125
+Sim time:  11.887500000000003
+Sim time:  11.949999999999998
+Sim time:  11.954687499999988
+Sim time:  11.956249999999997
+Sim time:  11.974999999999998
+Sim time:  11.975
+Sim time:  11.999999999999996
+Sim time:  11.999999999999998
+Sim time:  12.0
+Sim time:  12.0
+Sim time:  12.0
+Sim time:  12.0
+Sim time:  12.0
+Sim time:  12.0
+Sim time:  12.0
+Sim time:  12.0
+Sim time:  12.024999999999997
+Sim time:  12.031249999999996
+Sim time:  12.087500000000002
+Sim time:  12.125000000000002
+Sim time:  12.159374999999997
+Sim time:  12.181249999999999
+Sim time:  12.199999999999996
+Sim time:  12.212500000000002
+Sim time:  12.234374999999995
+Sim time:  12.287500000000001
+Sim time:  12.299999999999999
+Sim time:  12.325
+Sim time:  12.371874999999998
+Sim time:  12.375
+Sim time:  12.381249999999998
+Sim time:  12.418750000000003
+Sim time:  12.434374999999994
+Sim time:  12.443750000000001
+Sim time:  12.462499999999999
+Sim time:  12.518749999999997
+Sim time:  12.524999999999999
+Sim time:  12.574999999999998
+Sim time:  12.581249999999997
+Sim time:  12.599999999999998
+Sim time:  12.61640624999999
+Sim time:  12.624999999999996
+Sim time:  12.64375
+Sim time:  12.693749999999993
+Sim time:  12.718749999999995
+Sim time:  12.724804687500004
+Sim time:  12.724999999999998
+Sim time:  12.725000000000001
+Sim time:  12.799999999999997
+Sim time:  12.84375
+Sim time:  12.887500000000001
+Sim time:  12.924804687500004
+Sim time:  12.971874999999997
+Sim time:  12.999999999999996
+Sim time:  13.011718749999998
+Sim time:  13.012499999999992
+Sim time:  13.053906249999997
+Sim time:  13.062499999999998
+Sim time:  13.124804687500003
+Sim time:  13.162499999999994
+Sim time:  13.174999999999997
+Sim time:  13.211718749999998
+Sim time:  13.215625000000006
+Sim time:  13.21640624999999
+Sim time:  13.262499999999998
+Sim time:  13.293749999999992
+Sim time:  13.324999999999998
+Sim time:  13.353125000000002
+Sim time:  13.3625
+Sim time:  13.374999999999996
+Sim time:  13.4125
+Sim time:  13.416406249999989
+Sim time:  13.44375
+Sim time:  13.45625
+Sim time:  13.4625
+Sim time:  13.524999999999997
+Sim time:  13.556249999999997
+Sim time:  13.574999999999996
+Sim time:  13.612499999999992
+Sim time:  13.6125
+Sim time:  13.643749999999999
+Sim time:  13.676562499999996
+Sim time:  13.724804687500002
+Sim time:  13.724999999999996
+Sim time:  13.811718749999997
+Sim time:  13.812499999999991
+Sim time:  13.815624999999994
+Sim time:  13.876562499999995
+Sim time:  13.912500000000001
+Sim time:  13.953125000000002
+Sim time:  14.011718749999996
+Sim time:  14.0125
+Sim time:  14.032812499999999
+Sim time:  14.05625
+Sim time:  14.065624999999995
+Sim time:  14.06875
+Sim time:  14.076562499999994
+Sim time:  14.138085937499998
+Sim time:  14.156249999999996
+Sim time:  14.2125
+Sim time:  14.248535156249995
+Sim time:  14.253124999999999
+Sim time:  14.276562499999994
+Sim time:  14.287500000000001
+Sim time:  14.3125
+Sim time:  14.324804687500002
+Sim time:  14.351562500000002
+Sim time:  14.369970703124974
+Sim time:  14.41249999999999
+Sim time:  14.4125
+Sim time:  14.476562499999993
+Sim time:  14.47968749999999
+Sim time:  14.512500000000001
+Sim time:  14.531249999999996
+Sim time:  14.602221679687515
+Sim time:  14.61249999999999
+Sim time:  14.612499999999999
+Sim time:  14.665624999999995
+Sim time:  14.67968749999999
+Sim time:  14.712500000000002
+Sim time:  14.738085937499998
+Sim time:  14.747656249999995
+Sim time:  14.799999999999999
+Sim time:  14.802221679687515
+Sim time:  14.865624999999994
+Sim time:  14.875
+Sim time:  14.887500000000001
+Sim time:  14.903759765624994
+Sim time:  14.938085937499997
+Sim time:  15.0
+Sim time:  15.0
+Sim time:  15.0
+Sim time:  15.0
+Sim time:  15.002221679687514
+Sim time:  15.0125
+Sim time:  15.059374999999985
+Sim time:  15.094531250000005
+Sim time:  15.1125
+Sim time:  15.124999999999996
+Sim time:  15.131250000000001
+Sim time:  15.209375
+Sim time:  15.259374999999984
+Sim time:  15.282812499999995
+Sim time:  15.30781250000001
+Sim time:  15.324999999999996
+Sim time:  15.347656249999995
+Sim time:  15.381249999999984
+Sim time:  15.419531249999984
+Sim time:  15.47187499999999
+Sim time:  15.524999999999995
+Sim time:  15.535156249999972
+Sim time:  15.571874999999995
+Sim time:  15.595312499999991
+Sim time:  15.602221679687514
+Sim time:  15.619531249999984
+Sim time:  15.651171874999989
+Sim time:  15.682031249999982
+Sim time:  15.694531250000004
+Sim time:  15.712499999999999
+Sim time:  15.731250000000001
+Sim time:  15.73515624999997
+Sim time:  15.786596679687491
+Sim time:  15.802221679687513
+Sim time:  15.8625
+Sim time:  15.882031249999981
+Sim time:  15.882812499999995
+Sim time:  15.890624999999996
+Sim time:  15.93125
+Sim time:  15.947656249999994
+Sim time:  15.9625
+Sim time:  16.002221679687512
+Sim time:  16.01093750000001
+Sim time:  16.07187499999999
+Sim time:  16.082812499999996
+Sim time:  16.093749999999993
+Sim time:  16.147656249999994
+Sim time:  16.171874999999996
+Sim time:  16.21093750000001
+Sim time:  16.219531249999985
+Sim time:  16.293749999999992
+Sim time:  16.294531250000006
+Sim time:  16.303125
+Sim time:  16.314453124999996
+Sim time:  16.335156249999972
+Sim time:  16.41093750000001
+Sim time:  16.453125
+Sim time:  16.462500000000002
+Sim time:  16.494531250000005
+Sim time:  16.496484375
+Sim time:  16.5328125
+Sim time:  16.53437499999999
+Sim time:  16.53515624999997
+Sim time:  16.5625
+Sim time:  16.56875
+Sim time:  16.573437499999994
+Sim time:  16.617187499999993
+Sim time:  16.6625
+Sim time:  16.671874999999993
+Sim time:  16.732812499999998
+Sim time:  16.747656249999995
+Sim time:  16.754687499999996
+Sim time:  16.766406250000003
+Sim time:  16.8125
+Sim time:  16.817187499999992
+Sim time:  16.819531249999986
+Sim time:  16.832812499999996
+Sim time:  16.840234374999984
+Sim time:  16.869970703124974
+Sim time:  16.903125000000003
+Sim time:  16.932812499999997
+Sim time:  16.966406250000002
+Sim time:  16.968749999999993
+Sim time:  16.97578125
+Sim time:  17.01093750000001
+Sim time:  17.04140624999998
+Sim time:  17.069970703124973
+Sim time:  17.094531250000006
+Sim time:  17.16640625
+Sim time:  17.21093750000001
+Sim time:  17.212500000000002
+Sim time:  17.262500000000003
+Sim time:  17.294531250000006
+Sim time:  17.295312499999987
+Sim time:  17.299999999999997
+Sim time:  17.333007812500014
+Sim time:  17.347656249999996
+Sim time:  17.375
+Sim time:  17.4125
+Sim time:  17.4125
+Sim time:  17.4380859375
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.5
+Sim time:  17.503125000000004
+Sim time:  17.536718749999977
+Sim time:  17.547656249999996
+Sim time:  17.568749999999994
+Sim time:  17.6125
+Sim time:  17.64140624999998
+Sim time:  17.697656249999994
+Sim time:  17.709375
+Sim time:  17.736718749999977
+Sim time:  17.755859375
+Sim time:  17.766406250000003
+Sim time:  17.80781250000001
+Sim time:  17.8125
+Sim time:  17.862500000000004
+Sim time:  17.9
+Sim time:  17.909375
+Sim time:  17.942187499999996
+Sim time:  17.96484374999999
+Sim time:  17.966406250000002
+Sim time:  17.975
+Sim time:  18.0
+Sim time:  18.0
+Sim time:  18.0
+Sim time:  18.02734375
+Sim time:  18.0380859375
+Sim time:  18.09531249999999
+Sim time:  18.11132812500001
+Sim time:  18.134374999999977
+Sim time:  18.142187499999995
+Sim time:  18.195312500000014
+Sim time:  18.2125
+Sim time:  18.241406249999983
+Sim time:  18.29531249999999
+Sim time:  18.336718749999978
+Sim time:  18.342187499999994
+Sim time:  18.343554687499996
+Sim time:  18.407812500000013
+Sim time:  18.441406249999982
+Sim time:  18.47109375
+Sim time:  18.5
+Sim time:  18.542187499999994
+Sim time:  18.56484374999999
+Sim time:  18.62734375
+Sim time:  18.632812500000004
+Sim time:  18.64140624999998
+Sim time:  18.691406249999993
+Sim time:  18.710852050781238
+Sim time:  18.742187499999993
+Sim time:  18.784570312500023
+Sim time:  18.795312500000016
+Sim time:  18.832812500000003
+Sim time:  18.860546874999994
+Sim time:  18.910852050781237
+Sim time:  18.943554687499997
+Sim time:  18.995312500000015
+Sim time:  18.996484375
+Sim time:  19.03203124999999
+Sim time:  19.071093750000003
+Sim time:  19.073437499999994
+Sim time:  19.107421874999986
+Sim time:  19.110852050781236
+Sim time:  19.1625
+Sim time:  19.164843749999992
+Sim time:  19.196484375
+Sim time:  19.241406249999983
+Sim time:  19.254687499999996
+Sim time:  19.273437499999993
+Sim time:  19.31834716796878
+Sim time:  19.324804687499974
+Sim time:  19.340234374999984
+Sim time:  19.342187499999994
+Sim time:  19.3625
+Sim time:  19.37949218749998
+Sim time:  19.432812499999997
+Sim time:  19.432812500000004
+Sim time:  19.441406249999982
+Sim time:  19.47578125
+Sim time:  19.51834716796878
+Sim time:  19.54062499999999
+Sim time:  19.542187499999994
+Sim time:  19.5435546875
+Sim time:  19.63203124999999
+Sim time:  19.632812499999996
+Sim time:  19.64882812499995
+Sim time:  19.67578125
+Sim time:  19.69578247070307
+Sim time:  19.707421874999987
+Sim time:  19.742187499999993
+Sim time:  19.764843749999994
+Sim time:  19.832812499999996
+Sim time:  19.854687499999997
+Sim time:  19.869531249999987
+Sim time:  19.895782470703068
+Sim time:  19.9125
+Sim time:  19.924804687499975
+Sim time:  19.955273437499997
+Sim time:  19.962500000000002
+Sim time:  19.964843749999993
+Sim time:  20.032812500000006
+Sim time:  20.069531249999986
+Sim time:  20.07939453125003
+Sim time:  20.124804687499974
+Sim time:  20.14296875
+Sim time:  20.1435546875
+Sim time:  20.15156249999999
+Sim time:  20.164843749999992
+Sim time:  20.197656249999994
+Sim time:  20.248828124999953
+Sim time:  20.255859375
+Sim time:  20.27939453125003
+Sim time:  20.30742187499999
+Sim time:  20.32962951660164
+Sim time:  20.387402343749997
+Sim time:  20.397656249999994
+Sim time:  20.47939453125003
+Sim time:  20.52187499999999
+Sim time:  20.5552734375
+Sim time:  20.566406250000014
+Sim time:  20.578858947753787
+Sim time:  20.587402343749996
+Sim time:  20.632812500000007
+Sim time:  20.634374999999977
+Sim time:  20.671582031249997
+Sim time:  20.69179687500001
+Sim time:  20.7125
+Sim time:  20.72187499999999
+Sim time:  20.724804687499976
+Sim time:  20.75156249999999
+Sim time:  20.778858947753786
+Sim time:  20.834374999999977
+Sim time:  20.848828124999955
+Sim time:  20.90742187499999
+Sim time:  20.912499999999998
+Sim time:  20.95156249999999
+Sim time:  20.997656249999995
+Sim time:  21.0
+Sim time:  21.0
+Sim time:  21.0
+Sim time:  21.0
+Sim time:  21.048828124999954
+Sim time:  21.072265625000007
+Sim time:  21.15156249999999
+Sim time:  21.15585937500001
+Sim time:  21.187402343749998
+Sim time:  21.248828124999953
+Sim time:  21.27158203125
+Sim time:  21.298828124999964
+Sim time:  21.32187499999999
+Sim time:  21.35585937500001
+Sim time:  21.360546874999994
+Sim time:  21.378858947753788
+Sim time:  21.397119140625
+Sim time:  21.45170288085938
+Sim time:  21.46875
+Sim time:  21.50742187499999
+Sim time:  21.508813476562494
+Sim time:  21.537304687500043
+Sim time:  21.555859375000008
+Sim time:  21.597119140625
+Sim time:  21.64296875
+Sim time:  21.67226562500001
+Sim time:  21.690426635742163
+Sim time:  21.70742187499999
+Sim time:  21.729687500000004
+Sim time:  21.755859375000007
+Sim time:  21.78740234375
+Sim time:  21.81855468749999
+Sim time:  21.840234374999984
+Sim time:  21.872265625000008
+Sim time:  21.898828124999966
+Sim time:  21.925781250000036
+Sim time:  21.929687500000004
+Sim time:  21.960546874999995
+Sim time:  22.01855468749999
+Sim time:  22.04062499999999
+Sim time:  22.05170288085938
+Sim time:  22.098828124999965
+Sim time:  22.160546874999994
+Sim time:  22.17578125
+Sim time:  22.197119140625002
+Sim time:  22.25170288085938
+Sim time:  22.260742187500007
+Sim time:  22.34443359375004
+Sim time:  22.36466064453124
+Sim time:  22.370703124999988
+Sim time:  22.37578125
+Sim time:  22.409788513183557
+Sim time:  22.4125
+Sim time:  22.440234374999985
+Sim time:  22.460742187500006
+Sim time:  22.47333984374997
+Sim time:  22.525781250000037
+Sim time:  22.54179687499999
+Sim time:  22.570703124999987
+Sim time:  22.58867187499999
+Sim time:  22.6125
+Sim time:  22.61855468749999
+Sim time:  22.624511718750018
+Sim time:  22.64296875
+Sim time:  22.673339843749968
+Sim time:  22.755859375
+Sim time:  22.770703124999986
+Sim time:  22.80292968750001
+Sim time:  22.82504882812497
+Sim time:  22.82962951660164
+Sim time:  22.841992187499947
+Sim time:  22.873339843749967
+Sim time:  22.882324218750014
+Sim time:  22.914843749999978
+Sim time:  22.915576171874974
+Sim time:  22.94443359375004
+Sim time:  22.97578125
+Sim time:  22.995898437499992
+Sim time:  23.00292968750001
+Sim time:  23.013348388671886
+Sim time:  23.040234374999986
+Sim time:  23.041992187499947
+Sim time:  23.066406250000014
+Sim time:  23.12578125000004
+Sim time:  23.13906249999996
+Sim time:  23.174218749999973
+Sim time:  23.176562500000014
+Sim time:  23.19179687500001
+Sim time:  23.213348388671886
+Sim time:  23.22451171875002
+Sim time:  23.266406250000014
+Sim time:  23.355859375
+Sim time:  23.374218749999972
+Sim time:  23.396044921874957
+Sim time:  23.413348388671885
+Sim time:  23.432812500000008
+Sim time:  23.461523437499984
+Sim time:  23.49804687499998
+Sim time:  23.51386718750002
+Sim time:  23.555859375
+Sim time:  23.595898437499994
+Sim time:  23.613348388671884
+Sim time:  23.61411132812495
+Sim time:  23.640234374999988
+Sim time:  23.661108398437456
+Sim time:  23.665356445312437
+Sim time:  23.698046874999978
+Sim time:  23.72578125000004
+Sim time:  23.795898437499993
+Sim time:  23.82451171875002
+Sim time:  23.840234374999987
+Sim time:  23.898046874999977
+Sim time:  23.96875
+Sim time:  23.969091796875045
+Sim time:  23.974218749999974
+Sim time:  23.977734375000036
+Sim time:  24.0
+Sim time:  24.0
+Sim time:  24.0
+Sim time:  24.01640624999998
+Sim time:  24.02451171875002
+Sim time:  24.03281250000001
+Sim time:  24.037304687500043
+Sim time:  24.11386718750002
+Sim time:  24.14296875
+Sim time:  24.16875
+Sim time:  24.177734375000036
+Sim time:  24.213348388671886
+Sim time:  24.23281250000001
+bandwidth_when_ask_edgeandserver:  1023.0999999999852
+Overhead with edgeandserver: % 52.53570396995976
+bandwidth_when_ask_server:  236.10000000000323
+Overhead with server: % 12.123623993067978
+tasks_asked_server:  [1257, 1322, 1259, 0]
+tasks_asked_waited_in_queue:  [922, 988, 923, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  2.0260749908447293
+frame:  0
+iteration:  3999
+task_completed:  1000
+time_interval_switched:  787
+total task waited in queue:  2833
+Sim time:  24.34296875
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 100000 10000
+bandwidth_when_ask_edgeandserver:  1023.0999999999852
+Overhead with edgeandserver: % 52.53570396995976
+bandwidth_when_ask_server:  236.10000000000323
+Overhead with server: % 12.123623993067978
+tasks_asked_server:  [10257, 10322, 10259, 0]
+tasks_asked_waited_in_queue:  [9922, 9988, 9923, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  2.0260749908447293
+frame:  0
+iteration:  30999
+task_completed:  1000
+time_interval_switched:  787
+total task waited in queue:  29833
+Sim time:  24.34296875
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 100000 10000
+bandwidth_when_ask_edgeandserver:  11917.099999998723
+Overhead with edgeandserver: % 61.036763359630164
+bandwidth_when_ask_server:  2750.100000000207
+Overhead with server: % 14.08540692914799
+tasks_asked_server:  [13277, 13302, 13238, 0]
+tasks_asked_waited_in_queue:  [10104, 10131, 10066, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  4.578569656804344
+frame:  0
+iteration:  39999
+task_completed:  10000
+time_interval_switched:  9182
+total task waited in queue:  30301
+Sim time:  244.0557817954498
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 160 48 100000 10000
+bandwidth_when_ask_edgeandserver:  11192.999999999129
+Overhead with edgeandserver: % 58.92548979996485
+bandwidth_when_ask_server:  2583.0000000001055
+Overhead with server: % 13.598189953839656
+tasks_asked_server:  [13118, 13273, 13281, 0]
+tasks_asked_waited_in_queue:  [10030, 10188, 10191, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  3.927514660709947
+frame:  0
+iteration:  39999
+task_completed:  10000
+time_interval_switched:  8615
+total task waited in queue:  30409
+Sim time:  118.71984473523423
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 320 96 100000 10000
+bandwidth_when_ask_edgeandserver:  10630.099999999444
+Overhead with edgeandserver: % 55.36510416666376
+bandwidth_when_ask_server:  2453.1000000000267
+Overhead with server: % 12.77656250000014
+tasks_asked_server:  [13117, 13065, 13169, 0]
+tasks_asked_waited_in_queue:  [9955, 9903, 10009, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  3.165029679717564
+frame:  0
+iteration:  39999
+task_completed:  10000
+time_interval_switched:  8181
+total task waited in queue:  29867
+Sim time:  60.0
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 640 192 100000 10000
+bandwidth_when_ask_edgeandserver:  9232.600000000226
+Overhead with edgeandserver: % 47.01814246610345
+bandwidth_when_ask_server:  2130.599999999831
+Overhead with server: % 10.850340569099671
+tasks_asked_server:  [12799, 13225, 12694, 0]
+tasks_asked_waited_in_queue:  [9487, 9915, 9382, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  2.1657521276474716
+frame:  0
+iteration:  39999
+task_completed:  10000
+time_interval_switched:  7103
+total task waited in queue:  28784
+Sim time:  30.681640624999957
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 1280 394 100000 10000
+bandwidth_when_ask_edgeandserver:  4808.700000000335
+Overhead with edgeandserver: % 26.03237332178615
+bandwidth_when_ask_server:  1109.6999999999232
+Overhead with server: % 6.0074707665652
+tasks_asked_server:  [12549, 12338, 12550, 0]
+tasks_asked_waited_in_queue:  [9179, 8966, 9179, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  1.9114245166016448
+frame:  0
+iteration:  39999
+task_completed:  10000
+time_interval_switched:  3699
+total task waited in queue:  27324
+Sim time:  14.431249999999991
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 2560 788 100000 10000
+bandwidth_when_ask_edgeandserver:  1467.6999999999698
+Overhead with edgeandserver: % 7.676255230125365
+bandwidth_when_ask_server:  338.7000000000071
+Overhead with server: % 1.7714435146443885
+tasks_asked_server:  [11626, 11199, 12054, 0]
+tasks_asked_waited_in_queue:  [7932, 7505, 8359, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  1.8348613281250699
+frame:  0
+iteration:  39999
+task_completed:  10000
+time_interval_switched:  1129
+total task waited in queue:  23796
+Sim time:  7.46875
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 2560 788 100000 10000 > mining6.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 2560 788 100000 
+3333
+^Z
+[1]+  Stopped                 python3 simulation_mining_strongscaling_v2.py 2560 788 100000 3333
+ismetdagli@istanbul:~/H-eye$ ^C
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 2560 788 100000 3333
+Traceback (most recent call last):
+  File "simulation_mining_strongscaling_v2.py", line 523, in <module>
+    next_task_process=qos_failed_tasks.pop()
+IndexError: pop from empty list
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 2560 788 100000 3333
+bandwidth_when_ask_edgeandserver:  158.60000000000008
+Overhead with edgeandserver: % 0.02744324473975638
+bandwidth_when_ask_server:  36.60000000000001
+Overhead with server: % 0.006333056478405317
+tasks_asked_server:  [2464, 2464, 2466, 0]
+tasks_asked_waited_in_queue:  [838, 838, 839, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  23.147089396439643
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  260
+total task waited in queue:  2515
+Sim time:  225.75
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 1280 394 100000 
+3333
+bandwidth_when_ask_edgeandserver:  2142.399999999963
+Overhead with edgeandserver: % 3.060571428571375
+bandwidth_when_ask_server:  494.400000000013
+Overhead with server: % 0.7062857142857328
+tasks_asked_server:  [4565, 4779, 4991, 0]
+tasks_asked_waited_in_queue:  [2086, 2299, 2512, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  7.389608067252114
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  2267
+total task waited in queue:  6897
+Sim time:  54.6875
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 640 182 100000 3
+333
+^Z
+[2]+  Stopped                 python3 simulation_mining_strongscaling_v2.py 640 182 100000 3333
+ismetdagli@istanbul:~/H-eye$ ^C
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 640 196 100000 3
+333
+^Z
+[3]+  Stopped                 python3 simulation_mining_strongscaling_v2.py 640 196 100000 3333
+ismetdagli@istanbul:~/H-eye$ ^C
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 640 192 100000 3
+333
+bandwidth_when_ask_edgeandserver:  7690.800000000739
+Overhead with edgeandserver: % 20.30306230200829
+bandwidth_when_ask_server:  1774.7999999998224
+Overhead with server: % 4.685322069693301
+tasks_asked_server:  [5726, 6153, 5622, 0]
+tasks_asked_waited_in_queue:  [2820, 3248, 2715, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  5.676807520906824
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  6312
+total task waited in queue:  8783
+Sim time:  59.1875
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 320 96 100000 33
+33
+bandwidth_when_ask_edgeandserver:  10457.19999999954
+Overhead with edgeandserver: % 53.69084226851062
+bandwidth_when_ask_server:  2413.2000000000025
+Overhead with server: % 12.390194369656855
+tasks_asked_server:  [6405, 6354, 6458, 0]
+tasks_asked_waited_in_queue:  [3288, 3236, 3342, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  3.1771155173629704
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  8179
+total task waited in queue:  9866
+Sim time:  60.8646626114943
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 160 48 100000 33
+33
+bandwidth_when_ask_edgeandserver:  11191.69999999913
+Overhead with edgeandserver: % 58.92069033250341
+bandwidth_when_ask_server:  2582.7000000001053
+Overhead with server: % 13.597082384425477
+tasks_asked_server:  [6451, 6606, 6613, 0]
+tasks_asked_waited_in_queue:  [3363, 3521, 3524, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  3.9276574264525923
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  8614
+total task waited in queue:  10408
+Sim time:  118.71572550365707
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 100000 333
+3
+bandwidth_when_ask_edgeandserver:  11915.799999998724
+Overhead with edgeandserver: % 61.03187984831783
+bandwidth_when_ask_server:  2749.8000000002066
+Overhead with server: % 14.084279964998988
+tasks_asked_server:  [6610, 6635, 6570, 0]
+tasks_asked_waited_in_queue:  [3437, 3464, 3399, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  4.5787775345578
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  9181
+total task waited in queue:  10300
+Sim time:  244.04868467129376
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 40 12 100000 333
+3
+bandwidth_when_ask_edgeandserver:  12034.099999998658
+Overhead with edgeandserver: % 60.406122863890026
+bandwidth_when_ask_server:  2777.100000000223
+Overhead with server: % 13.939874507054219
+tasks_asked_server:  [6671, 6616, 6594, 0]
+tasks_asked_waited_in_queue:  [3544, 3490, 3465, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  5.398081702123818
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  9279
+total task waited in queue:  10499
+Sim time:  498.0496773114569
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 20 6 100000 3333
+bandwidth_when_ask_edgeandserver:  12186.199999998573
+Overhead with edgeandserver: % 63.02879181313985
+bandwidth_when_ask_server:  2812.2000000002445
+Overhead with server: % 14.545105803035238
+tasks_asked_server:  [6610, 6632, 6628, 0]
+tasks_asked_waited_in_queue:  [3490, 3512, 3515, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  5.327603858167843
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  9430
+total task waited in queue:  10517
+Sim time:  966.7169280451027
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 10 3 100000 3333
+bandwidth_when_ask_edgeandserver:  12310.999999998503
+Overhead with edgeandserver: % 55.491665175514825
+bandwidth_when_ask_server:  2841.000000000262
+Overhead with server: % 12.805768886660005
+tasks_asked_server:  [6632, 6595, 6579, 0]
+tasks_asked_waited_in_queue:  [3561, 3509, 3472, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  6.091935038258324
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  9575
+total task waited in queue:  10542
+Sim time:  2218.5313706229554
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 20 6 100000 3333
+bandwidth_when_ask_edgeandserver:  12268.099999998527
+Overhead with edgeandserver: % 63.712789582621795
+bandwidth_when_ask_server:  2831.100000000256
+Overhead with server: % 14.702951442146588
+tasks_asked_server:  [6635, 6665, 6589, 0]
+tasks_asked_waited_in_queue:  [3509, 3536, 3454, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  5.3666739451432015
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  9488
+total task waited in queue:  10499
+Sim time:  962.7658811022109
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 40 12 100000 3333
+bandwidth_when_ask_edgeandserver:  12032.799999998659
+Overhead with edgeandserver: % 62.69063566714069
+bandwidth_when_ask_server:  2776.800000000223
+Overhead with server: % 14.467069769342933
+tasks_asked_server:  [6739, 6576, 6562, 0]
+tasks_asked_waited_in_queue:  [3620, 3464, 3448, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  5.256096914516621
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  9283
+total task waited in queue:  10532
+Sim time:  479.84838054153175
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 80 24 100000 333
+3
+bandwidth_when_ask_edgeandserver:  12006.799999998673
+Overhead with edgeandserver: % 61.50658396762141
+bandwidth_when_ask_server:  2770.8000000002194
+Overhead with server: % 14.19382706945379
+tasks_asked_server:  [6608, 6717, 6532, 0]
+tasks_asked_waited_in_queue:  [3425, 3529, 3346, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  4.0256889410326036
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  9245
+total task waited in queue:  10300
+Sim time:  244.01452709354152
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 160 48 100000 3333
+bandwidth_when_ask_edgeandserver:  11434.799999998993
+Overhead with edgeandserver: % 59.52532407338373
+bandwidth_when_ask_server:  2638.8000000001393
+Overhead with server: % 13.73661324770587
+tasks_asked_server:  [6670, 6513, 6487, 0]
+tasks_asked_waited_in_queue:  [3522, 3363, 3336, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  3.8104387684808083
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  8799
+total task waited in queue:  10221
+Sim time:  120.06234508171259
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 320 96 100000 3333
+bandwidth_when_ask_edgeandserver:  10609.299999999455
+Overhead with edgeandserver: % 55.347970638205084
+bandwidth_when_ask_server:  2448.300000000024
+Overhead with server: % 12.772608608817338
+tasks_asked_server:  [6662, 6504, 6344, 0]
+tasks_asked_waited_in_queue:  [3501, 3342, 3182, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  3.4698325745793097
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  8162
+total task waited in queue:  10025
+Sim time:  59.901134798089636
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 640 192 100000 3333
+bandwidth_when_ask_edgeandserver:  7680.400000000737
+Overhead with edgeandserver: % 21.944000000002106
+bandwidth_when_ask_server:  1772.3999999998227
+Overhead with server: % 5.063999999999494
+tasks_asked_server:  [5728, 5939, 5833, 0]
+tasks_asked_waited_in_queue:  [2821, 3034, 2927, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  5.089843450058588
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  6302
+total task waited in queue:  8782
+Sim time:  54.6875
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 1280 384 100000 3333
+bandwidth_when_ask_edgeandserver:  2892.5000000000678
+Overhead with edgeandserver: % 6.149022108843681
+bandwidth_when_ask_server:  667.4999999999901
+Overhead with server: % 1.4190051020407952
+tasks_asked_server:  [5427, 5214, 5425, 0]
+tasks_asked_waited_in_queue:  [2735, 2522, 2734, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  4.780007903134155
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  2911
+total task waited in queue:  7991
+Sim time:  36.75
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling_v2.py 2560 768 100000 3333
+bandwidth_when_ask_edgeandserver:  158.60000000000008
+Overhead with edgeandserver: % 0.02744324473975638
+bandwidth_when_ask_server:  36.60000000000001
+Overhead with server: % 0.006333056478405317
+tasks_asked_server:  [2486, 2484, 2484, 0]
+tasks_asked_waited_in_queue:  [859, 858, 858, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  23.129321057105713
+frame:  0
+iteration:  19997
+task_completed:  9999
+time_interval_switched:  262
+total task waited in queue:  2575
+Sim time:  225.75
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling.py 80 24 1
+bandwidth_when_ask_edgeandserver:  0
+Overhead with edgeandserver: % 0.0
+bandwidth_when_ask_server:  0
+Overhead with server: % 0.0
+tasks_asked_server:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  20.05530558680165
+frame:  2686
+iteration:  16061
+task_completed:  8001
+time_interval_switched:  5393
+total task waited in queue:  0
+Sim time:  2686.5
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling.py 80 24 0.5
+bandwidth_when_ask_edgeandserver:  4462.900000000287
+Overhead with edgeandserver: % 3.1204726611664713
+bandwidth_when_ask_server:  1029.8999999999353
+Overhead with server: % 0.7201090756537094
+tasks_asked_server:  [3283, 3406, 3433, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  17.884725173428144
+frame:  3575
+iteration:  26728
+task_completed:  16001
+time_interval_switched:  15117
+total task waited in queue:  0
+Sim time:  1787.75
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling.py 80 24 0.25
+bandwidth_when_ask_edgeandserver:  11005.799999999233
+Overhead with edgeandserver: % 6.456529391059037
+bandwidth_when_ask_server:  2539.8000000000793
+Overhead with server: % 1.489968321013774
+tasks_asked_server:  [8256, 8448, 8466, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  11.258136073873517
+frame:  8523
+iteration:  57572
+task_completed:  32001
+time_interval_switched:  26596
+total task waited in queue:  0
+Sim time:  2130.75
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling.py 80 24 0.125
+bandwidth_when_ask_edgeandserver:  24465.9999999917
+Overhead with edgeandserver: % 12.95827463109843
+bandwidth_when_ask_server:  5646.000000001963
+Overhead with server: % 2.9903710687170766
+tasks_asked_server:  [18572, 18809, 18820, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  6.982494414149936
+frame:  18880
+iteration:  120643
+task_completed:  64001
+time_interval_switched:  55982
+total task waited in queue:  0
+Sim time:  2360.075
+
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining_strongscaling.py 80 24 0.0625
+^Z
+[1]+  Stopped                 python3 simulation_mining_strongscaling.py 80 24 0.0625
+ismetdagli@istanbul:~/H-eye$ ^C
+ismetdagli@istanbul:~/H-eye$ 
+
+
+
+
+
+ismetdagli@istanbul:~$ python3 simulation_mining.py 4 2 2 > mining2.log
+python3: can't open file 'simulation_mining.py': [Errno 2] No such file or directory
+ismetdagli@istanbul:~$ cd H-eye/
+ismetdagli@istanbul:~/H-eye$ rm ../mining2.log 
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 4 2 2 > mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 5 3 3 >
+ mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 5 3 2 >
+ mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 5 3 1 >
+ mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 5 2 2 >
+ mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 6 2 2 >
+ mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 6 2 2 > mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 6 2 2 > mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 8 2 2 >
+ mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 8 2 2 > mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 6 2 2 >
+ mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 12 2 2 
+> mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 10 3 2 
+> mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 10 3 1.8 > mining2.log
+Traceback (most recent call last):
+  File "simulation_mining.py", line 22, in <module>
+    FPS = int(argument_FPS)
+ValueError: invalid literal for int() with base 10: '1.8'
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 10 3 1.8 > mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 10 3 1.5 > mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 10 3 1.6 > mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 10 3 1.5 > mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 20 6 0.75 > mining2.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 40 12 0.37 > mining3.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 80 24 0.175 >> mining3.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 160 48 0.0875 >> mining3.l
+og
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 320 96 0.04375 >> mining3.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 640 192 0.021875 >> mining3.log
+ismetdagli@istanbul:~/H-e
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 1280 384 0.0109375 >> mining3.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 80 24 0.175 > mining4.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 80 24 0.0875 >> mining4.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 80 24 0.04375 >> mining4.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 80 24 0.35 >> mining4.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 80 24 0.7 >> mining4.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 80 24 1.4 >> mining4.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 640 192 0.04375 >> mining5.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 640 192 0.0875 >> mining5.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 640 192 0.175 >> mining5.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 640 192 0.0109375 >> mining5.log
+ismetdagli@istanbul:~/H-eye$ python3 simulation_mining.py 640 192 0.00546875 >> mining5.log
+python3 simulation_mining.py 80 24 0.021875>> mining4.log
+^Z
+[1]+  Stopped                 python3 simulation_mining.py 640 192 0.00546875 >> mining5.log
+ismetdagli@istanbul:~/H-eye$ ^C
+ismetdagli@istanbul:~/H-eye$ 

@@ -1,0 +1,75 @@
+
+
+
+
+
+
+python3 simulation_mining.py 640 192 0.0875 >> mining5.log
+bandwidth_when_ask_edgeandserver:  2490.8000000000116
+Overhead with edgeandserver: % 0.38917777055573793
+bandwidth_when_ask_server:  574.8000000000042
+Overhead with server: % 0.08981025474363205
+tasks_asked_server:  [1903, 1912, 1916, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  24.16627941650354
+frame:  11428
+iteration:  73061
+task_completed:  38775
+time_interval_switched:  22392
+total task waited in queue:  0
+Sim time:  1000.025
+
+
+python3 simulation_mining.py 640 192 0.04375 >> mining5.log
+bandwidth_when_ask_edgeandserver:  19863.999999994277
+Overhead with edgeandserver: % 4.497292206261949
+bandwidth_when_ask_server:  4584.000000001319
+Overhead with server: % 1.0378366629841242
+tasks_asked_server:  [15218, 15272, 15280, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  13.654174495313816
+frame:  15774
+iteration:  111325
+task_completed:  64001
+time_interval_switched:  63720
+total task waited in queue:  0
+Sim time:  690.1375
+
+
+
+
+python3 simulation_mining.py 640 192 0.021875 >> mining5.log
+
+bandwidth_when_ask_edgeandserver:  23397.3999999923
+Overhead with edgeandserver: % 9.035629050069243
+bandwidth_when_ask_server:  5399.400000001813
+Overhead with server: % 2.0851451654019812
+tasks_asked_server:  [17956, 17997, 17998, 0]
+tasks_asked_waited_in_queue:  [0, 0, 0, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  8.405291152676742
+frame:  18496
+iteration:  119491
+task_completed:  64001
+time_interval_switched:  74362
+total task waited in queue:  0
+Sim time:  404.603125
+
+python3 simulation_mining.py 640 192 0.0109375 >> mining5.log
+bandwidth_when_ask_edgeandserver:  27078.99999999024
+Overhead with edgeandserver: % 19.168327204379036
+bandwidth_when_ask_server:  6249.000000002328
+Overhead with server: % 4.423460124090712
+tasks_asked_server:  [37806, 38214, 38621, 0]
+tasks_asked_waited_in_queue:  [18080, 18467, 18873, 0]
+tasks_asked_waited_in_queue_df:  [0, 0, 0]
+task_processing_time:  4.8309931356524105
+frame:  20181
+iteration:  178803
+task_completed:  64001
+time_interval_switched:  75884
+total task waited in queue:  55420
+Sim time:  220.73359374999998
+
