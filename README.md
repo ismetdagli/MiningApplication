@@ -2,7 +2,7 @@
 
 Welcome to this machine learning and deep learning project. This repository contains various Python scripts that implement different machine learning algorithms and data handling routines. The code is built using PyTorch, with variations for CPU and GPU execution. Below is an overview of the files included in this project and their respective functions.
 
-# Under Scripts, File Descriptions
+# Under scripts:
 
 - **main.py**
   - This is the primary entry point for the project. It initializes the project and calls other scripts to execute specific tasks.
@@ -34,7 +34,7 @@ Welcome to this machine learning and deep learning project. This repository cont
 - **load_and_plot_results.py**
   - This script loads results from the other scripts and creates various plots to visualize the output. Useful for analyzing and understanding the performance of different algorithms.
 
-# Under experiments, File Descriptions
+# Under experiments:
 
 This project contains Python scripts focused on various aspects of mining and scheduling, with applications in edge and server environments. The scripts offer a range of functionalities, from mining simulations to different scheduling strategies, both locally and across clusters.
 
