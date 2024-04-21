@@ -1,0 +1,25 @@
+WARNING: pip is being invoked by an old script wrapper. This will fail in a future version of pip.
+Please see https://github.com/pypa/pip/issues/5599 for advice on fixing the underlying issue.
+To avoid this problem you can invoke Python with '-m pip' instead of running pip directly.
+WARNING: The directory '/home/ismetdagli/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Collecting h5py==3.1.0
+  Downloading h5py-3.1.0.tar.gz (371 kB)
+     |████████████████████████████████| 371 kB 12.1 MB/s            
+  Preparing metadata (pyproject.toml) ... done
+Collecting cached-property
+  Downloading cached_property-1.5.2-py2.py3-none-any.whl (7.6 kB)
+Requirement already satisfied: numpy>=1.12 in /usr/local/lib/python3.6/dist-packages (from h5py==3.1.0) (1.19.4)
+Building wheels for collected packages: h5py
+  Building wheel for h5py (pyproject.toml) ... done
+  Created wheel for h5py: filename=h5py-3.1.0-cp36-cp36m-linux_aarch64.whl size=4434099 sha256=227a2893b11a9481cc86598faccecd693afa2549f10c85333832e425347318f0
+  Stored in directory: /tmp/pip-ephem-wheel-cache-vpxd2l3l/wheels/7a/a9/52/00330d144164b95ed1c699f64f6e8576850b29ef1aa2b85be5
+Successfully built h5py
+Installing collected packages: cached-property, h5py
+  Attempting uninstall: h5py
+    Found existing installation: h5py 2.10.0
+    Uninstalling h5py-2.10.0:
+      Successfully uninstalled h5py-2.10.0
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+tensorflow 2.5.0+nv21.8 requires h5py~=2.10.0, but you have h5py 3.1.0 which is incompatible.
+Successfully installed cached-property-1.5.2 h5py-3.1.0
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
